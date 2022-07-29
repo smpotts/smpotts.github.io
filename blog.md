@@ -4,7 +4,7 @@ title: Blog
 subtitle: What's on my mind 
 ---
 
-{{ content }}
+<!-- {{ content }} -->
 
 {% assign posts = paginator.posts | default: site.posts %}
 
