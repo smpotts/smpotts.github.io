@@ -21,7 +21,7 @@ author: Shelby Potts
 
 navbar-links:
   About: "aboutme"
-  Resources:
+  Blog:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
