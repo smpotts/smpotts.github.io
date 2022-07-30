@@ -9,9 +9,13 @@ I'm a passionate, creative, and curious Software Engineer, currently working at 
 
 ## *Experience and Skills*
 **Data Engineering & ETL**: Java, Ruby on Rails, Python, Kafka, Terraform, Looker, Metabase, Pentaho Data Integration, Google Analytics
+
 **Data**: Redshift, dbt, MySQL, Postgres, SQL Server
+
 **Cloud Technologies**: Amazon Web Services, Google BigQuery
+
 **Project Management**: Agile methodologies, Kanban, JIRA, Confluence, Asana, Notion
+
 **Operating Systems**: Mac, Linux
 
 ## *Certifications*
