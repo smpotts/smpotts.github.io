@@ -21,4 +21,4 @@ I'm a passionate, creative, and curious Software Engineer, currently working at 
 - AWS Certified Solutions Architect Associate - (Anticipated December 2022)
 
 ## *Personal Interests*
-In my free time you can find me playing tennis, collecting vinyl, doing yoga, reading, playing guitar, paddle boarding, cooking and hanging out with my dog, Sulley.
+In my free time you can find me playing tennis, collecting vinyl, doing yoga, investing, reading, playing guitar, painting, paddle boarding, cooking and hanging out with my dog, Sulley.
