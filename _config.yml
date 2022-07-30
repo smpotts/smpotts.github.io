@@ -20,8 +20,8 @@ author: Shelby Potts
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Blog: "blog"
+  About: "aboutme"
+  Writing: "blog"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
