@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How I changed my approach to setting goals
-subtitle: A more focused way that I find very helpful 
+title: How I changed my philosophy on setting goals
+subtitle: A more focused approach.
 tags: [goals, career_goals, goal_setting]
 ---
 
