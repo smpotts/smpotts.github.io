@@ -25,7 +25,7 @@ The second pattern I noticed is that a number of my 1 year goals weren't actuall
 
 If you ask me, a good goal is something where you have to change or grow in some way to accomplish it. It could be all sorts of things; learning a new skill, removing a mental roadblock to do something, making a lifestyle change, spending lots of time practicing something, saving money, etc. Goals should be measurable so that at the end of that period of time, you can look back on it and say whether or not you accomplished it with certainty. Furthermore, short term goals should inspire and reinforce long term goals. There should be a progression over time where you are setting yourself up more and more over 1, 3, and 5 year periods to reach the 7 and 10 year goals.
 
-Using the example from earlier, the shorter term goals I might want be able to go on a long, luxurious international trip in 7 years could look something like this:  \
+Using the example from earlier, the shorter term goals I might want in order to go on a long, luxurious international trip in 7 years could look something like this:  \
 1 year: Research destinations, decide when to go and where, create a budget  \
 3 year: Have 50% of the money needed for the trip saved  \
 5/6 year: Booking reservations, flights, notify boss, etc.  \
