@@ -2,6 +2,7 @@
 layout: post
 title: Setting up a website with Jekyll
 subtitle: My experience using Github Pages and Jekyll to create a personal website.
+cover-img: /assets/img/alaska_pano.jpg
 tags: [github_pages, jekyll]
 ---
 
