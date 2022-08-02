@@ -3,7 +3,7 @@ layout: post
 title: How I changed my philosophy on setting goals
 subtitle: A more focused approach.
 cover-img: /assets/img/balloon_pano.jpg
-thumbnail-img: /assets/img/balloon.jpeg
+thumbnail-img: /assets/img/balloon.jpg
 share-img: /assets/img/balloon_pano.jpg
 tags: [goals, career_goals, goal_setting]
 ---
