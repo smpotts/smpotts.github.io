@@ -34,7 +34,6 @@ In my free time you can find me playing tennis, collecting vinyl, doing yoga, in
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
 .row::after {
   content: "";
   clear: both;
@@ -42,19 +41,17 @@ In my free time you can find me playing tennis, collecting vinyl, doing yoga, in
 }
 </style>
 
-<body>
  <div class="row">
   <div class="column">
-    <img src="dirty_sulley.jpg" style="width:100%">
+    <img src="https://smpotts.github.io/assets/img/dirty_sulley.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="dirty_sulley.jpg" style="width:100%">
+    <img src="https://smpotts.github.io/assets/img/tennis_balls.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="dirty_sulley.jpg" style="width:100%">
+    <img src="https://smpotts.github.io/assets/img/sulley_smirk.jpg" style="width:100%">
   </div>
 </div> 
-</body>
 
 
    
