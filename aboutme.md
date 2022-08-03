@@ -22,3 +22,39 @@ I'm a passionate, creative, and curious Software Engineer, currently working at 
 
 ## *Personal Interests*
 In my free time you can find me playing tennis, collecting vinyl, doing yoga, investing, reading, playing guitar, painting, paddle boarding, cooking and hanging out with my dog, Sulley.
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<body>
+ <div class="row">
+  <div class="column">
+    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div> 
+</body>
+
+
+   
