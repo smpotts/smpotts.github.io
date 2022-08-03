@@ -45,13 +45,13 @@ In my free time you can find me playing tennis, collecting vinyl, doing yoga, in
 <body>
  <div class="row">
   <div class="column">
-    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Snow" style="width:100%">
+    <img src="dirty_sulley.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Forest" style="width:100%">
+    <img src="dirty_sulley.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/Users/spotts/Projects/smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Mountains" style="width:100%">
+    <img src="dirty_sulley.jpg" style="width:100%">
   </div>
 </div> 
 </body>
