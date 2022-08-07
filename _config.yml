@@ -15,6 +15,8 @@ title: Shelby Potts
 # Your name to show in the footer
 author: Shelby Potts
 
+cover-img: /assets/img/maroon_bells.jpg
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -140,7 +142,7 @@ footer-hover-col: "#0085A1"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/maroon_bells.jpg"
+# page-img: "/assets/img/maroon_bells.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
