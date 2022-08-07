@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Please, don't sudo install gems
-subtitle: Ruby install lessons I learned the hard way 
+subtitle: Ruby install lessons I learned the hard way
 cover-img: /assets/img/bandelier.jpeg
 thumbnail-img: /assets/img/ladder.jpeg
 share-img: /assets/img/bandelier.jpeg
