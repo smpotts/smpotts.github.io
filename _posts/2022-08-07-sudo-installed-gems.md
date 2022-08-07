@@ -2,10 +2,12 @@
 layout: post
 title: Please, don't sudo install gems
 subtitle: Ruby install lessons I learned the hard way 
+cover-img: /assets/img/bandelier.jpeg
+thumbnail-img: /assets/img/ladder.jpeg
+share-img: /assets/img/bandelier.jpeg
 tags: [ruby, gems]
 ---
 
-## Overview
 After I accepted a new job at eSpark Learning last summer, panic soon set in that I had zero Ruby on Rails experience. I turned to Udemy to find a course on building applications with Ruby on Rails. While the course spent a great deal of time covering things like data types and String methods, it completely skipped over how to install and properly setup your local Ruby environment. This led to me hacking my way through the installation. I was using the system Ruby without realizing it and I installed the gems using ```sudo```.
 
 ## Beware of 'sudo'

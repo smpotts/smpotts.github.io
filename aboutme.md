@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-# subtitle: Thoughtful, Dependable, Imaginative, Collaborative.
+subtitle:
 ---
 
 ### A Little About Me

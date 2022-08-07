@@ -8,7 +8,6 @@ share-img: /assets/img/alaska_pano.jpg
 tags: [github_pages, jekyll]
 ---
 
-## Overview
 I recently set up this website using Github Pages and Jekyll and since this was a totally new experience for me, I thought it would be interesting to write about my experiences, and the things I have learned and still have to learn.
 
 ## Why I wanted to create a website
