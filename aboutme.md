@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: Hi, I'm Shelby
+cover-img: /assets/img/maroon_bells.jpg
 ---
 
 I'm a passionate, creative, and curious Software Engineer, currently working at [eSpark Learning](https://www.esparklearning.com/). I earned a Bachelors of Science in Computer Science with a double minor in Mathematics and Spanish at the **University of Denver**. Prior to eSpark I worked at **Craftsy** (an NBCUniversal company) and the **Nasdaq** stock exchange. In my current role at eSpark I specialize primarily in data, cloud infrastructure, and backend software engineering but I am always eager to develop skills in other areas.
