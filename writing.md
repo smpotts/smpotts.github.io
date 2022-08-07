@@ -1,6 +1,6 @@
 ---
 layout: blog_home
 title: Writing
-subtitle: What's on my mind? 
+subtitle: Read more about the things I'm discovering. 
 ---
 
