@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: Thoughtful, Dependable, Imaginative, Collaborative.
+# subtitle: Thoughtful, Dependable, Imaginative, Collaborative.
 ---
 
 ### A Little About Me
@@ -15,7 +15,6 @@ I'm a passionate, creative, and curious Software Engineer, currently working at 
 **Operating Systems**: Mac, Linux
 
 ### Certifications
-
 - Certified Scrum Master - May 2022
 - AWS Certified Cloud Practitioner - October 2020
 - AWS Certified Solutions Architect Associate - (Anticipated December 2022)
