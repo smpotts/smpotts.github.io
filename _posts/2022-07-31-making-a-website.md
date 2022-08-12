@@ -11,7 +11,7 @@ tags: [github_pages, jekyll]
 I recently set up this website using Github Pages and Jekyll and since this was a totally new experience for me, I thought it would be interesting to write about my experiences, and the things I have learned and still have to learn.
 
 ## Why I wanted to create a website
-So far in my career I have been in individual contributor roles at companies of varying sizes, but I've always had the ambition to eventually build something of my own and be in more of a consultant/ contractor/ freelance space. Until recently my digital footprint has been very small (by design), but I've realized that I need to make myself more visible and showcase my skills by getting more involved in new technologies and projects of my own. At eSpark Learning, I work with so many talented and inquisitive people who put a lot of time into developing their skills outside of work and seeing that has been a catalyst for me to do the same and write about the interesting things I'm discovering.
+So far in my career I have been in individual contributor roles at companies of varying sizes, but I've always had the ambition to eventually build something of my own and be in more of a consultant/ contractor/ freelance space. Until recently my digital footprint has been very small (by design), but I've realized that I need to make myself more visible and showcase my skills by getting more involved in new technologies and projects of my own. I know so many talented and inquisitive people who put a lot of time into developing their skills outside of work and seeing that has been a catalyst for me to do the same and write about the interesting things I'm discovering.
 
 ## Getting Started
 ### Trying out Jekyll
