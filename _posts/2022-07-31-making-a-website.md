@@ -3,19 +3,16 @@ layout: post
 title: Setting up a website with Jekyll
 subtitle: My experience using Github Pages and Jekyll to create a personal website
 cover-img: /assets/img/alaska_pano.jpg
-thumbnail-img: /assets/img/alaska.jpeg
+thumbnail-img: /assets/img/alaska_pano.jpeg
 share-img: /assets/img/alaska_pano.jpg
 tags: [github_pages, jekyll]
 ---
 
-I recently set up this website using Github Pages and Jekyll and since this was a totally new experience for me, I thought it would be interesting to write about my experiences, and the things I have learned and still have to learn.
-
-## Why I wanted to create a website
-So far in my career I have been in individual contributor roles at companies of varying sizes, but I've always had the ambition to eventually build something of my own and be in more of a consultant/ contractor/ freelance space. Until recently my digital footprint has been very small (by design), but I've realized that I need to make myself more visible and showcase my skills by getting more involved in new technologies and projects of my own. I know so many talented and inquisitive people who put a lot of time into developing their skills outside of work and seeing that has been a catalyst for me to do the same and write about the interesting things I'm discovering.
+I recently set up this website using Github Pages and Jekyll and since this was a totally new experience for me, I thought it would be interesting to write about my experiences, and the things I still have to learn. Until recently my digital footprint has been very small by design, but I've realized that I want to build my skills by getting more involved in new technologies and projects of my own and share that with others.
 
 ## Getting Started
 ### Trying out Jekyll
-A coworker recommended Jekyll to me so the first thing I did was go to the [Jekyll site](https://jekyllrb.com/docs/) and read the documentation. Jekyll is a Ruby gem that is used for static website generating and it seemed to be a good fit for what I was looking for. I decided it would be worth giving it a try so I walked through the [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) on the website. I got the site up and running locally but I didn't want to have to run it locally on my machine to access the website so that's where I turned to Github Pages.
+A coworker recommended Jekyll to me so the first thing I did was go to the [Jekyll site](https://jekyllrb.com/docs/) and read the documentation. Jekyll is a Ruby gem that is used for static website generating and it seemed to be a good fit for what I was looking for. I decided it would be worth giving it a try so I walked through the [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) on the website. I got the site up and running locally, but I didn't want to have to run it locally on my machine to access the website so that's where I turned to Github Pages.
 
 ### Github Pages
 Github Pages is great because it allows you to deploy a static website right from your repository. I can't emphasize how easy it is. I walked through the [documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) and I was able to get my site hosted within an hour, and I didn't have to worry about running a local jekyll server. The documentation is pretty good, but I will say there are some minor gaps that required a bit of Googling and trial and error. For instance, the command to create a new jekyll site in step 7 ```jekyll new --skip-bundle .``` failed for me because it did not like the ```--skip-bundle``` flag. I was able to get the jekyll installed by simply doing ```jekyll new .``` but it didn't create a Gemfile, so I had to make one myself. While I was troubleshooting some minor issues that came up during the setup, I found [this Github issue](https://github.com/github/docs/issues/2177) really useful, as it addresses some things I had to work through to get Jekyll setup with Github Pages. Once I got through the documentation I had a working website that fully deployed from my main branch, the only problem was it looked like a high school web design project gone horribly wrong.
