@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subdomain Takeovers for Kindergarteners
+title: Subdomains 101 and Subdomain Takeovers
 subtitle: A few things I learned about DNS, Subdomains and Subdomain Takeovers 
 cover-img: /assets/img/alaska.jpeg
 thumbnail-img: /assets/img/alaska.jpeg
@@ -20,8 +20,4 @@ DNS stands for Domain Name System, and it's basically the translation between th
 A subdomain is a way to separate or organize content within a domain. It could be used to have a separate section for a blog or an online shop. A good example of this is how Github Pages uses subdomains to allow users to host static websites on the Github domain. Github's domain is "www.github.com", but users can utilize a subdomain and host their own site as "username.github.io".
 
 ### Subdomain Takeovers
-Like I said I'm not a networking expert, but here is the general concept of a subdomain takeover. Say I have a domain like "www.shelbylikescoffee.com" (just throwing something out there, it's not a real website!) and then I wanted to create a subdomain "shop.shelbylikescoffee.com" where people could buy cool merch. Maybe I create the online store, but then take it down, or forget to do anything with it at all, but the subdomain exists, and it's reachable. With a subdomain takeover, a hacker could utilize this subdomain and server malicious content to it, meanwhile, users think they are still using my website because technically they still are. Given the potential for this type of attack, it's really important to remove subdomains that are not being used.
-
-I find this topic very intriguing, and I plan on doing more research about subdomain takeovers and learn more about prevention methods.
-
-
+Here is the general concept of a subdomain takeover. Say for example, I have a domain like "www.shelbylikescoffee.com", and then I create a subdomain "shop.shelbylikescoffee.com" where I have a separate section of the website specifically for selling merchandise. Then after some period of time I decide I don't want the online store and I take down the hosted content but, forget to remove the subdomain DNS entry. Leaving the subdomain accessible and not having hosted content, makes my site vulnerable to a type of cyber attack called a "subdomain takeover". With a subdomain takeover, a hacker could take control over this subdomain and serve their own, malicious content to it, while the users think they are still accessing content related to my site. Given the potential for this type of attack, it's really important to stay on top of the subdomain DNS entries associated with your site and remove any that are not being used.
