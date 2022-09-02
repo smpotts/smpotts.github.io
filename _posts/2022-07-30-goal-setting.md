@@ -37,3 +37,5 @@ Using the example from earlier, the shorter term goals I might want in order to 
 Personally, I find it helpful to reevaluate goals every so often and see whether the goals are still achievable or if they still resonate with you. If not, that's totally ok. Adjust them or strike them off the list. Setting goals is an ever-changing process.
 
 I am by no means an expert on setting goals, and I still struggle to get the process dialed in but thinking about them in this more focused way has helped me tremendously!
+
+Photo: Aspen, CO

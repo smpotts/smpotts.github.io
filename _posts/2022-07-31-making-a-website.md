@@ -26,3 +26,5 @@ From there I looked through the Github repository for Beautiful Jekyll, and I wa
 
 ### Final Thoughts
 It can be a bit challenging making changes to the code for the site since I don't have a ton of web experience. Nonetheless, it's certainly helping me improve my web skills, and I get a good laugh at reading the funny comments that are in the source code from the forked repo. Many thanks to [Dean Attali](https://deanattali.com/) who is an amazing open source developer and the creator of the Beautiful Jekyll theme. If you use his Jekyll theme or any of his other open source projects, definitely send him some money on [Github](https://github.com/sponsors/daattali) or Patreon to support his work.
+
+Photo: Fairbanks, AK
