@@ -13,8 +13,6 @@ I've been using [Jet Brains IDEs](https://www.jetbrains.com/) for several years 
 ## Customizations
 One of my favorite things about any of the JetBrains IDEs is the level of customization you have with the UI. Users can decide between a dark or light theme and then customize the colors and effects for the different keywords in each language it supports. I like having the autonomy of setting the color scheme because it's fun, and it makes it easier to identify the different keywords in your code.
  
-[![color-schemes.png](https://i.postimg.cc/PPNTMDMw/color-schemes.png)](https://postimg.cc/PPNTMDMw)
-
 Another great thing about the JetBrains color schemes is that by default, the IDEs will gray out keywords that are not being used in the code, making it easier for you to catch an error or remove those pieces.
 
 In addition to color formatting, Jet Brains IDEs also let you configure advanced formatting for each language, so your files are consistently formatted just the way you like them. It has the configuration for things like spaces and indents, wrapping and braces, blank lines, code documentation, imports, alignment and more. This is great when you are viewing or importing a messy file because you can easily reformat the code to your preferred style.
@@ -27,8 +25,6 @@ The JetBrains IDEs have customizable tool bars on the sides, and the bottom of t
 
 ## File Searching
 Another one of my favorite things about the JetBrains IDEs is the file searching capabilities. The IDEs allow you to quickly search for files within the project with the "shift-shift" key command, and you can narrow the scope to specific paths or object types. You can also do a grep-style search to find a phrase in files within the project with the key command "command-shift-F". I tend to use this a lot, it's a really fast and easy way to search and it gives you a preview of the search phrase within the file.
-
-[![file-search.png](https://i.postimg.cc/yJGFkcny/file-search.png)](https://postimg.cc/yJGFkcny)
 
 One of the other great file search features with these IDEs is how you can find usages of an object within the project by right clicking on the object and clicking "Find Usages". This open a split view at the bottom of the IDE that will give you a list of files and places where the object is used (if at all), and a preview of where that line is used in the file. This is typically pretty reliable, but it can have problems finding references to objects when you have a MVC type project where the backend is serving objects to frontend views.
 
