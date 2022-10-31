@@ -11,7 +11,7 @@ tags: [aws_iam, permissions]
 I'm currently studying for the AWS Solutions Architect Associate exam and I realized I didn't understand AWS Identity Access Management (IAM) as well as I thought, despite taking the AWS Cloud Practitioner exam a few years ago. It is really important to have a good understanding of IAM because it is the backbone of security in the AWS cloud. After finally getting a good grasp on the different pieces, I thought what better way to reinforce the things I have learned about IAM than to break down the different components and what they are used for.
 
 ## What's IAM?
-At a very high level, IAM is a service in the Amazon cloud that is responsible for managing users and services, and their level of access. IAM allows you to create groups, define permissions for the groups, and assign users to groups, so you don't have to manage permissions at the individual level. It also allows you to define permissions for how one AWS service and interact with another through the use of roles.
+At a very high level, IAM is a service in the Amazon cloud that is responsible for managing users and services, and their level of access. IAM allows you to create groups, define permissions for the groups, and assign users to groups, so you don't have to manage permissions at the individual level. It also allows you to define permissions for how one AWS service can interact with another through the use of roles.
 
 ## The Components of IAM
 Here is the breakdown of the different components that make up IAM.
