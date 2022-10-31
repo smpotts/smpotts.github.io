@@ -5,7 +5,7 @@ subtitle: A quick demo
 cover-img: /assets/img/newport.jpeg
 thumbnail-img: /assets/img/newport.jpeg
 share-img: /assets/img/newport.jpeg
-tags: [redshift_data_api, redshift, api]
+tags: [redshift_data_api, redshift, api, aws, python, ruby]
 ---
 
 Lately I've spent some time exploring Amazon's Redshift Data API tool, and I have to say, I'm loving it. Not only have I found the Data API easy to use, but I think it's also an appropriate solution for all kinds of data problems. I wanted to layout some documentation I have found really useful and walk through the basics of interacting with the Data API.

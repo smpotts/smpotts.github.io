@@ -5,7 +5,7 @@ subtitle: Breaking down the different components
 cover-img: /assets/img/steamboat.jpeg
 thumbnail-img: /assets/img/steamboat.jpeg
 share-img: /assets/img/steamboat.jpeg
-tags: [aws_iam, permissions]
+tags: [aws_iam, permissions, aws]
 ---
 
 I'm currently studying for the AWS Solutions Architect Associate exam and I realized I didn't understand AWS Identity Access Management (IAM) as well as I thought, despite taking the AWS Cloud Practitioner exam a few years ago. It is really important to have a good understanding of IAM because it is the backbone of security in the AWS cloud. After finally getting a good grasp on the different pieces, I thought what better way to reinforce the things I have learned about IAM than to break down the different components and what they are used for.

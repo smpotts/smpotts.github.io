@@ -1,7 +1,7 @@
 ---
 layout: post
 title: S3 Tricks and Treats 
-subtitle: They're much better than candy!
+subtitle: Even better than Halloween candy 
 cover-img: /assets/img/mosaic.jpg
 thumbnail-img: /assets/img/pumpkin.jpeg
 share-img: /assets/img/mosaic.jpg
