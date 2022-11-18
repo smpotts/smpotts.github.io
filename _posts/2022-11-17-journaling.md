@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Using Journaling As A Tool To Manage Stress
-subtitle: How I found it and how I harness the benefits of it
+title: Using journaling as a tool to manage stress
+subtitle: The benefits I experience with it
 cover-img: /assets/img/paddleboards.jpeg
 thumbnail-img: /assets/img/paddleboards.jpeg
 share-img: /assets/img/paddleboards.jpeg
