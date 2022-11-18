@@ -5,7 +5,7 @@ subtitle: A more focused approach
 cover-img: /assets/img/aspens.jpg
 thumbnail-img: /assets/img/aspens.jpg
 share-img: /assets/img/aspens.jpg
-tags: [goals, career_goals, goal_setting]
+tags: [goals, career_goals, personal_growth]
 ---
 
 Several years ago I read a book called "[Rich Bitch](https://nicolelapin.com/rich-bitch/)" by Nicole Lapin (which I *so* highly recommend), and it reshaped my life in many ways. Not only was it the financial guidance and structure that I needed right out of college, but one of the chapters also outlined a very pragmatic approach for setting and achieving goals, which I firmly adopted. Nicole's approach to goals breaks them into a few broad categories:
