@@ -1,0 +1,19 @@
+---
+layout: post
+title: Using Journaling As A Tool To Manage Stress
+subtitle: How I found it and how I harness the benefits of it
+cover-img: /assets/img/paddleboards.jpeg
+thumbnail-img: /assets/img/paddleboards.jpeg
+share-img: /assets/img/paddleboards.jpeg
+tags: [journaling, personal_growth]
+---
+
+I've been feeling extremely stressed out and overwhelmed lately with all the things I have going on in my personal and professional life, and I have been leaning heavily on journaling as a tool to work through all the stress and bring myself peace. I was adverse to journaling for many years because I likened it to writing in a diary like I did when I was a kid. But the truth is I have found huge benefits to picking up a notebook and a pen in difficult times.
+
+About 7 years ago, I was going through a tough time and I was dealing with a lot of stress and uncertainty. I did't know how to deal with it and it was consuming my life and all my mental energy. My mom had mentioned to me that her boss was a former Navy Seal struggling with PTSD, and he carried around a journal and would get it out and write when he was struggling with PTSD. Sortly after, I went out and bought a journal and started trying journaling for myself. I started writing in the journal when I was struggling to cope with my feelings and I told myself that whatever I wrote didn't have to be ledgable, none of it needed to make sense, the entries didn't need dates, and I was never going to go back and read what I wrote. I felt the benefits of the journaling immediately and adopted it as part of my routine ever since.
+
+I had a lot of misconceptions about the what the practice of journaling would look like and what the point of it was. The funny thing is I don't think there's one right answer for what it should look like, the important thing is how it feels to you. And the point of it is self expression. As someone who gets extremely overwhelmed by all the things that are happening in my life, journaling provides a way to take all the stressful, consuming things I have running in my head and give them a name, a description, a shape. Sometimes things seem to pile on in such a way that we feel so weighed down. When a few bad things happen, it seems to open up the flood gates for a multitude of over things to creep in and demand space in our heads. What I've found with journaling is that when you start writing down what these things are, you start to realize there aren't nearly as many of them as it seemed, no matter how many things are going on. 
+
+Compartmentalizing the difficult feelings helps you think about them and work through them more individually. Giving them a name and a shape by writing down what they are allows me to separate myself from them so I can really examine what they are, where they came from, and how to deal with them. I find an extraordinary amount of personal growth in this. The act of writing down your thoughts makes your mind slow down and focus on the specific thing that's keeping your attention, without the distractions of the million other things you've been thinking. What is it? How does it feel? This takes the nebulous and exhausting thoughts you've been stuck on and it makes them finite and small. You're able to look at them from a more objective perspective and coach yourself through different ways you can aleviate the stress. You're able to self reflect from a completely different angle than if you were just walking around mulling over these thoughts. I've found that even in situations where I've dealt with a tremendous amount of grief, journaling can ameliorate some of the difficult feelings and facilitate healing. 
+
+I'm sure people who journal have all kinds of different reasons for doing it and outcomes. For me it's helped a lot with stress and working through hard things that come up in life and I will definitely continue to harness the benefits of it.
