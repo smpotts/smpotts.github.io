@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis paralysis with AWS database services
+title: Fighting analysis paralysis with AWS database services
 subtitle: A starting point for choosing a service that fits your use case
 cover-img: /assets/img/watch_hill_boats.jpg
 thumbnail-img: /assets/img/watch_hill_boats.jpg
@@ -8,7 +8,7 @@ share-img: /assets/img/watch_hill_boats.jpg
 tags: [databases, aws]
 ---
 
-AWS offers a wide variety of database services that can feel overwhelming when you are trying to find a service that best suits your use case. I can attest to this because there have been cases where I'm looking for a database service to support one of my projects or just looking to see what other options are out there, and I feel completely overwhelmed and confused by the choices. In this post I'm going to lay out many of the database services that Amazon supports, as well as when to use them.
+AWS offers a wide variety of database services that can feel overwhelming when you are trying to find a service that best suits your use case. I can attest to this because there have been times when I'm looking for a database service to support one of my projects or just looking to see what other options are out there, and I feel completely overwhelmed and confused by the choices. In this post I'm going to lay out many of the database services that Amazon supports, as well as when to use them.
 
 ## Knowing your data
 In order to choose a database service that best supports your application needs, you have to have an idea of what the data will look like and how they will relate to one another. Here are some different directions to start in depending on what types of data you're working with:
