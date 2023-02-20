@@ -16,7 +16,7 @@ I'm a passionate, creative, and curious Software Engineer, currently working at 
 
 ### Certifications
 - Certified Scrum Master - May 2022
-- AWS Certified Cloud Practitioner - October 2020
+- AWS Certified Cloud Practitioner - February 2023
 - AWS Certified Solutions Architect Associate - (Anticipated April 2023)
 
 ### Personal Interests
