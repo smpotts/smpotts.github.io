@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The AWS Cloud Practitioner and Solutions Architect Associate Exams are Both Difficult 
+title: The AWS Cloud Practitioner and Solutions Architect Associate exams are both difficult 
 subtitle: I underestimated the Cloud Practitioner exam
 cover-img: /assets/img/steamboat_sunset.jpeg
 thumbnail-img: /assets/img/steamboat_sunset.jpeg

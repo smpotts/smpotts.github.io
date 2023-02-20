@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Has the AWS CCP Exam Gotten Harder? 
+title: Has the AWS CCP exam gotten harder? 
 subtitle: In my experience it has!
 cover-img: /assets/img/birmingham.jpeg
 thumbnail-img: /assets/img/birmingham.jpeg
