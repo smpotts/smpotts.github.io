@@ -71,3 +71,5 @@ These are Amazon's fully managed ledger databases that are immutable, meaning on
 This is a fully managed, serverless data store in AWS that allows you to easily store and analyze time series data. It provides auto scaling capabilities, and the data are always encrypted.
 
 There are even more services that interact with data on AWS, and no doubt they will continue to add more, but this is a good starting point for what database services are available on AWS.
+
+Photo: Watch Hill, RI

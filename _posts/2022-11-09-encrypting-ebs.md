@@ -44,7 +44,4 @@ The next step is click on the encrypted snapshot, go to Actions and click "Creat
 
 This will create an Amazon Machine Image (AMI), which can then be used to create an EC2 instance. Under AMIs, click on the AMI created from the snapshot and click "Launch Instance from AMI". Choose the same settings as the original EC2 instance and click "Create instance". This creates a new encrypted EC2 instance that is an exact copy of the unencrypted instance.
 
-
-
-
-
+Photo: New Orleans, LA
