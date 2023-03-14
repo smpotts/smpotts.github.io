@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shifting my attention to what's next 
-subtitle: Applying my tennis goal to the rest of my life 
+subtitle: Applying my tennis goals to the rest of my life 
 cover-img: /assets/img/court.jpeg
 thumbnail-img: /assets/img/court.jpeg
 share-img: /assets/img/court.jpeg

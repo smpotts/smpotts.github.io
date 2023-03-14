@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demystifying how to find song melodies on guitar
-subtitle: My journey to finding melodies and playing them back
+subtitle: My journey to finding melody lines and playing them back
 cover-img: /assets/img/opry_guitars.jpeg
 thumbnail-img: /assets/img/opry_guitars.jpeg
 share-img: /assets/img/opry_guitars.jpeg
