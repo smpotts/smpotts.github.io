@@ -5,7 +5,7 @@ subtitle: My journey to finding melody lines and playing them back
 cover-img: /assets/img/opry_guitars.jpeg
 thumbnail-img: /assets/img/opry_guitars.jpeg
 share-img: /assets/img/opry_guitars.jpeg
-tags: [guitar, melodies, scales]
+tags: [music, guitar, melodies, scales]
 ---
 
 When I first started, one of the most intriguing things about playing the guitar was how quickly and effortlessly experienced players could pick out the melody in a song and play it back. Since this seemed like such a supernatural talent, I couldn't help but want to understand how it works and master it for myself. A year or two into learning to play guitar, I tried learning the melody of one of my favorite songs by pausing the song after each note, finding the note on the fretboard, and then writing it down on a sheet a paper to try to write out the whole melody. As you can imagine this was an arduous process, and I quickly lost interest in it. It took a long time to develop the foundational skills to be able to try this again, but eventually I got to a place where I can find a good starting point on the fretboard, and piece the notes of the melody together. There is no right answer for how to figure this out, but I wanted to retrace my steps of how I got there.
