@@ -11,7 +11,7 @@ tags: [aws, vpcs, networking]
 One of the hardest pieces of AWS to digest for me is the VPC/ Networking section. I didn't take any Networking classes in college, and I don't have a ton of experience working on networking in different jobs I've had so far which makes it more challenging. I've had to go through the VPC section of the [A Cloud Guru](https://acloudguru.com/) course I'm taking to study for the AWS Solutions Architect Associate exam twice, and after the second pass, I wanted to go over the high level VPC components and how they fit together.
 
 ## VPCs
-The virtual private cloud (VPC), is the outer most, all encompassing part of the networking architecture in the cloud. It is deployed in a single region, and as A Cloud Guru refers to it, it's "like a virtual data center in the cloud". It's logically isolated from the rest of the cloud, and it gives you full control over the network.
+The virtual private cloud (VPC), is the outer most, all encompassing part of the networking architecture in the cloud. It is deployed in a single region, and as A Cloud Guru refers to it, "like a virtual data center in the cloud". It's logically isolated from the rest of the cloud, and it gives you full control over the network.
 
 When you create a VPC, it gives you three things: a main Route table, a main Network ACL, and a security group. I'm going to dive a little deeper into each one.
 
@@ -31,7 +31,7 @@ According to the [AWS docs](https://docs.aws.amazon.com/vpc/latest/userguide/con
 When I first read about the CIDR block range it completely blew my mind, and it made no sense, but the more I mull it over, the more I get it. Subnets are creating these "sub-sections" of the cloud (to continue with the analogy I've been thinking of) by defining IP address ranges. The way we define an IP address range is with CIDR blocks.
 
 #### Security Groups in Subnets
-From what I've gathered, subnets usually have a security group inside them. There may be scenarios where that's not necessary, but that's I've seen so far. I think this is because resources like EC2 instances are typically deployed in the subnet, and they also need to be associated with a security group.
+From what I've gathered, subnets usually have a security group inside them. There may be scenarios where that's not necessary, but that's what I've seen so far. I think this is because resources like EC2 instances are typically deployed in the subnet, and they also need to be associated with a security group.
 
 ### Internet Gateways
 The next component of the VPC is the Internet Gateway which is the mechanism that allows the VPC to access the public internet. This association is set up through the Route table to the public subnet.
