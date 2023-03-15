@@ -15,7 +15,7 @@ The virtual private cloud (VPC), is the outer most, all encompassing part of the
 
 When you create a VPC, it gives you three things: a main Route table, a main Network ACL, and a security group. I'm going to dive a little deeper into each one.
 
-### Route Tables (also referred to as the Router in AWS docs)
+### Route Tables (also referred to as the Router)
 Paraphrasing from the [AWS site](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html) on VPC Routing tables, a route table contains a set of rules for how it should route traffic. 
 
 ### Network ACLs
