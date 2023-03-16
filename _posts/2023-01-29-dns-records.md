@@ -23,4 +23,4 @@ CNAME stands for "canonical name". CNAME records are used to map the alias of a 
 
 There are a lot more DNS record types out there, but there are the ones I have seen the most and have a great general understanding of now.
 
-Photo: University of the South in Sewanee, TN
+Photo: Tracy City, TN
