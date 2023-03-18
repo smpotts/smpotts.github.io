@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A comprehensive overview of VPCs
+title: An overview of VPC services
 subtitle: The basic components, and their relationships
 cover-img: /assets/img/taos.jpg
 thumbnail-img: /assets/img/taos.jpg
