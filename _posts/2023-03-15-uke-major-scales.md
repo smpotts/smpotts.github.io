@@ -8,7 +8,7 @@ share-img: /assets/img/opry_stage.jpeg
 tags: [music, ukulele, guitar, scales]
 ---
 
-I haven't played the ukulele much since the pandemic started, but recently my friend Cliff let me borrow his ukulele to take to a Bluegrass jam. At the time when I was playing ukulele in 2020, I was having a really difficult time figuring out the scales. Stepping away from it and playing only guitar for a while has proven to be a good strategy. Once I picked up the ukulele, I was able to quickly identify the major scale pattern I'm most familiar with on the guitar. I wrote about this in another post about playing melodies, but the one I like the most is commonly referred to as position 5 of the CAGED Major Scale shapes. In the key of C, it looks like this:
+I haven't played the ukulele much since the pandemic started, but recently my friend let me borrow his ukulele to take to a Bluegrass jam. At the time when I was playing ukulele in 2020, I was having a really difficult time figuring out the scales. Stepping away from it and playing only guitar for a while has proven to be a good strategy. Once I picked up the ukulele, I was able to quickly identify the major scale pattern I'm most familiar with on the guitar. I wrote about this in another post about playing melodies, but the one I like the most is commonly referred to as position 5 of the CAGED Major Scale shapes. In the key of C, it looks like this:
 
 [![Screenshot-2023-03-15-at-8-54-35-PM.png](https://i.postimg.cc/8Pqt1r5k/Screenshot-2023-03-15-at-8-54-35-PM.png)](https://postimg.cc/D8Pq60LR)
 
