@@ -2,9 +2,9 @@
 layout: post
 title: Connecting VPCs to other networks and services
 subtitle: A quick run through of services that are useful to know about VPCs
-cover-img: /assets/img/abq_balloon.jpg
-thumbnail-img: /assets/img/abq_balloon.jpg
-share-img: /assets/img/abq_balloon.jpg
+cover-img: /assets/img/abq_balloon.jpeg
+thumbnail-img: /assets/img/abq_balloon.jpeg
+share-img: /assets/img/abq_balloon.jpeg
 tags: [aws, vpcs, networking]
 ---
 
