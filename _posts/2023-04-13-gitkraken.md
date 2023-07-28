@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Gitkraken is a so worth the money
+title: Gitkraken is so worth the money
 subtitle:  Why it's one of my most trusted tools
-cover-img: /assets/img/leaves.jpg
-thumbnail-img: /assets/img/leaves.jpg
-share-img: /assets/img/leaves.jpg
+cover-img: /assets/img/leaves.jpeg
+thumbnail-img: /assets/img/leaves.jpeg
+share-img: /assets/img/leaves.jpeg
 tags: [software_tooling, git]
 ---
 
