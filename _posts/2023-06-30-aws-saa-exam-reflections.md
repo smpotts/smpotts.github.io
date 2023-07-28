@@ -20,3 +20,5 @@ I bought the first few sets of practice exams that came up on Udemy without doin
 One thing that I think really played out in my benefit was retaking the AWS Certified Cloud Practitioner exam before the Solutions Architect exam. This is mainly because I forgot how uncomfortable and stressful testing centers are, and how much that can be an inhibitor to exam performance. When I went to take the AWS SSA exam, I felt like I knew what I was getting into, and I had somewhat of a plan for how I was going to deal with it.
 
 Overall the exam went well, and given the things I was able to take away from it, I will be really prepared for the next exams.
+
+Photo: hot air balloon Albuquerque, NM

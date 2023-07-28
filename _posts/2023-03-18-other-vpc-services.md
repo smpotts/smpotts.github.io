@@ -36,3 +36,5 @@ Transit Gateway connects VPCs to on-prem networks through a centralized service.
 
 ## VPN Hub
 VPN Hub creates a hub and spoke model to connect multiple independent VPNs together through one centralized service. It basically aggregates the VPN connection so they can all talk directly to each other.
+
+Photo: hot air balloon in Albuquerque, NM

@@ -17,3 +17,5 @@ The second thing I mentioned is applying to a job posting even if you don't meet
 The most important piece of advice that I wanted to share that someone gave me when I started working in tech, was to find something you like within your industry and try to be the best at it. It's great to be able to dabble in a lot of different things (I do it!), but you want to carve out a space for yourself and develop depth. This creates expertise, job security, leadership opportunities, and allows you more time working on things you love. It's truly a win-win for everyone.
 
 Reading these pieces of advice again, I can say more confidently they make sense, and they're genuine pieces of advice based on the experiences I've had, but it's hard not to feel like I missed so many other things. I can think of them endlessly; work-life balance, setting boundaries, asking for help, etc. This has certainly been a great exercise in self-reflection, and I now have a much greater appreciation for all the people I've asked these questions to in the past.
+
+Photo: Narragansett, RI
