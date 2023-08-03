@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teams should be limiting work in progress 
-subtitle: Why it's distracting and ineffective 
+subtitle: Why too many tickets in progress is distracting and ineffective 
 cover-img: /assets/img/birmingham2.jpeg
 thumbnail-img: /assets/img/birmingham2.jpeg
 share-img: /assets/img/birmingham2.jpeg
