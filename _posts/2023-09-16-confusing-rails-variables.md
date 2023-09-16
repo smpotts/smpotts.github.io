@@ -54,3 +54,4 @@ The triple equals operator is a powerful expression in Ruby that is used often. 
 
 There are many more confusing, yet interesting and powerful, language features I've learned in Ruby, and have yet to encounter, but these are a few that I find especially valuable to understand.
 
+Photo: International Tennis Hall of Fame in Newport, RI
