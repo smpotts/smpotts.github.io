@@ -29,29 +29,29 @@ end
 In this example, the column names on the table are symbols.
 
 ## Keys
-Keys look very similar to symbols are look like `key:` in the code. This notation is shorthand for accessing an element of a [Hash](https://ruby-doc.org/core-2.2.0/Hash.html). The Ruby docs describe a Hash as "a dictionary-like collection of unique keys and their values". This is similar to the `dict` data structure in Python. The places where I often see keys used is in object create statements or in method declarations as parameters, for example:
+Keys look very similar to symbols, and they look like `key:` in the code. This notation is shorthand for accessing an element of a [Hash](https://ruby-doc.org/core-2.2.0/Hash.html). The Ruby docs describe a Hash as "a dictionary-like collection of unique keys and their values". This is similar to the `dict` data structure in Python. The places where I often see keys used is in object create statements or in method declarations as parameters, for example:
 ```
 def test(param_name:)
     # do something
 end
 ```
 
-It's not super intuitive at first, but hashes can be used as parameters to a method. I really like the way Justin Weiss demonstrates the use of hashes as parameters in this article ["Fun With Keyword Arguments, Hashes, and Splats"](https://www.justinweiss.com/articles/fun-with-keyword-arguments/).
+It's not super intuitive at first, but hashes can be used as parameters to a method. I really like the way Justin Weiss demonstrates the use of hashes as parameters in this article, ["Fun With Keyword Arguments, Hashes, and Splats"](https://www.justinweiss.com/articles/fun-with-keyword-arguments/).
 
 ## Safe Navigation Operators
-The safe navigation operators are a super useful language feature in Ruby which allows you to avoid NilClass exceptions. They typically come up in a scenario like this:
+The safe navigation operators are a super useful language feature in Ruby which allows you to avoid `NilClass` exceptions. They typically come up in a scenario like this:
 ```
 user = User.where(email: email).first&.authenticate(password)
 ```
 
-Without the addition of the `&` in this statement, if the user we are looking for didn't exist, this line would throw a NilClass exception. This is because `User.where(email: email).first` would be `nil` and then we are trying to call `.authenticate(password)` on a `nil` object. The addition of the `&` operator means it will only call the resulting part of the statement if the object thus far is not `nil`. So in this scenario, if the user did not exist, the whole statement would just return `nil` instead of erroring out.
+Without the addition of the `&` in this statement, if the user we are looking for didn't exist, this line would throw a `NilClass` exception. This is because `User.where(email: email).first` would be `nil` and then we are trying to call `.authenticate(password)` on a `nil` object. The addition of the `&` operator means it will only call the resulting part of the statement if the object thus far is not `nil`. So in this scenario, if the user did not exist, the whole statement would just return `nil` instead of erroring out.
 
 ## Triple Equals Operators
-The triple equals operator is a powerful expression in Ruby that is used often. Despite the way it looks (similar to `==`), it has nothing to do with equality. Brandon Weaver wrote an awesome explanation breaking down all the different uses of `===` in this article,  ["Understanding Ruby Triple Equals"](https://dev.to/baweaver/understanding-ruby-triple-equals-2p9c). Essentially the `===` operator has lots of different uses like checking to see if something is included in a set, checking to see whether something matches a regular expression, checking data types, and more. Most recently, I used it in a scenario where I needed a regular expression to see if a subset of a String was a part of a larger String like this:
+The triple equals operator is a powerful expression in Ruby that is used quite often. Despite the way it looks (similar to `==`), it has nothing to do with equality. Brandon Weaver wrote an awesome explanation breaking down all the different uses of `===` in this article,  ["Understanding Ruby Triple Equals"](https://dev.to/baweaver/understanding-ruby-triple-equals-2p9c). Essentially the `===` operator has lots of different uses like checking to see if something is included in a set, checking to see whether something matches a regular expression, checking data types, and more. Most recently, I used it in a scenario where I needed a regular expression to see if a subset of a String was a part of a larger String like this:
 ```
 /sub/ === 'substring'
 ```
 
-There are many more confusing, yet interesting and powerful, language features I've learned in Ruby, and have yet to encounter, but these are a few that I find especially valuable to understand.
+There are many more confusing and powerful language features I've learned in Ruby, and many more I have yet to encounter, but these are a few I find especially valuable to understand.
 
 Photo: International Tennis Hall of Fame in Newport, RI
