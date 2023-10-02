@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What if there's more than one way to do something correctly?
-subtitle: How considering different perspectives can lead to growth and development
+title: There's more than one way to do something correctly
+subtitle: Considering different perspectives can lead to growth and better understanding
 cover-img: /assets/img/chicago_lakefront.jpg
 thumbnail-img: /assets/img/chicago_lakefront.jpg
 share-img: /assets/img/chicago_lakefront.jpg
