@@ -5,12 +5,12 @@ subtitle: I tried GraphQL and I really liked it
 cover-img: /assets/img/fairplay.jpg
 thumbnail-img: /assets/img/fairplay.jpg
 share-img: /assets/img/fairplay.jpg
-tags: [tech, graphql]
+tags: [tech, graphql, ruby, ruby_on_rails]
 ---
 
 I was perusing the Ruby on Rails courses on Udemy recently and came across a [course](https://www.udemy.com/course/basics-of-graphql-with-ruby-on-rails/) on using GraphQL with Ruby on Rails. It was a short hour and a half of video content, so I purchased it and followed along with the videos. The course instructor, Alex Deva, does an awesome job explaining the concepts and walking through small projects that demonstrate how and when to use GraphQL. I had heard of GraphQL before, but I didn't have any exposure to it up until this course. 
 
-GraphQL is an alternative to using a REST api where you have two pieces of software (like a backend and a frontend) that need to communicate with each other. In a lot of cases, the underlying data for the application needs to change based on things that happen, for instance when the user takes some sort of action like clicking a button. With GraphQL you create queries to describe the exact data you want to get back. The idea with GraphQL is that you get back exactly what you need instead of having to deal with additional data that isn't necessary, which you often do with REST.
+GraphQL is an alternative to using a REST API where you have two pieces of software (like a backend and a frontend) that need to communicate with each other. In a lot of cases, the underlying data for the application needs to change based on things that happen, for instance when the user takes some sort of action like clicking a button. With GraphQL you create queries to describe the exact data you want to get back. The idea with GraphQL is that you get back exactly what you need instead of having to deal with additional data that isn't necessary, which you often do with REST.
 
 The course recommends installing [GraphiQL](https://github.com/graphql/graphiql), and I really enjoyed working with it. GraphiQL was pretty easy to install and it's very simple and lightweight. You have to add ```gem "graphql"``` to your Gemfile and start the rails server, then you can start interacting with GraphiQL on port 3000.
 
