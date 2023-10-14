@@ -22,6 +22,7 @@ author: Shelby Potts
 navbar-links:
   About: "aboutme"
   Writing: "writing"
+  Resume: "resume"
   Connect: "mailto:shelbypotts.connect@gmail.com"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
