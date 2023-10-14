@@ -23,10 +23,9 @@ navbar-links:
   About: "aboutme"
   Writing: "writing"
   Resume: "resume"
-  Connect: "mailto:shelbypotts.connect@gmail.com"
+  Contact: "mailto:shelbypotts.connect@gmail.com"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
- # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "shelbypotts.connect@gmail.com"
   github: smpotts
-  linkedin: shelby-p-1a098b63
+  linkedin: shelby-potts-1a098b63
 #  medium: yourname
 #  facebook: deanattali
 #  reddit: yourname
