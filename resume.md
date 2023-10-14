@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resume
-subtitle:
 cover-img: /assets/img/fiesta5.jpg
 ---
 
@@ -59,7 +58,7 @@ Software Engineer II   /   *July 2018 – August 2021*
     * Configured JDBC connections to Postgres, MySQL, and SQL Server reporting databases and wrote queries to serve data to the dashboard components
 
 #### Craftsy (an NBCUniversal Company) 
-Data Warehouse Developer   /   October 2017 – July 2018
+Data Warehouse Developer   /   *October 2017 – July 2018*  
 * Enhanced the scope of the data warehouse project by pipelining data from additional sources and refining the architecture to meet the needs of the business analysts and data consumers
     * Configured the data visualization tool, Looker, to retrieve data from the data warehouse to make available to populate dashboards, analyze business segments, and enable users to create self-service reports
 * Created a marketing forecast to calculate 30-day rolling averages to forecast important business metrics, marketing costs, and revenue for different marketing channels
