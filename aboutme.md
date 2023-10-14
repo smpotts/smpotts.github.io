@@ -49,7 +49,7 @@ Outside of work, you will find me pursuing an overabundance of hobbies and inter
      <img src="https://smpotts.github.io/assets/img/sulley_field.jpg" style="width:100%; height: auto;">
    </div>
   <div class="column">
-    <img src="https://smpotts.github.io/assets/img/sulley_tub.jpg" style="width:100%; height: auto;">
+    <img src="https://smpotts.github.io/assets/img/sulley_shelf.jpg" style="width:100%; height: auto;">
   </div>
   <div class="column">
     <img src="https://smpotts.github.io/assets/img/voodoo.jpg" style="width:100%; height: auto;">
