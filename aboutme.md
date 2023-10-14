@@ -5,22 +5,15 @@ subtitle: Hi, I'm Shelby
 cover-img: /assets/img/maroon_bells.jpg
 ---
 
-I'm a passionate, creative, and curious Senior Software Engineer, currently working at [eSpark Learning](https://www.esparklearning.com/). I earned a Bachelors of Science in Computer Science with a double minor in Mathematics and Spanish at the **University of Denver**. Prior to eSpark I worked at **Craftsy** (an NBCUniversal company) and the **Nasdaq** stock exchange. In my current role at eSpark I specialize primarily in data, cloud infrastructure, and backend software engineering, but I am always eager to develop skills in other areas.
+I'm wildly curious, creative, spirited, and growth oriented. I have a passion for learning new things, whether it's technology related, hobby related, or something entirely different. 
 
-### Experience and Skills
-**Data Engineering & ETL**: Java, Ruby on Rails, Python, Kafka, Terraform, Looker, Metabase, Pentaho Data Integration, Google Analytics,
-**Data**: Redshift, dbt, MySQL, Postgres, SQL Server,
-**Cloud Technologies**: Amazon Web Services, Google BigQuery,
-**Project Management**: Agile methodologies, Kanban, JIRA, Confluence, Asana, Notion,
-**Operating Systems**: Mac, Linux
+I've always had a drive to understand how things work, which has lent itself well to my career in Software Engineering. I fell into Computer Science by accident after I transferred from Baylor University to the University of Denver. The trasition from the semester system to the quarter system meant that I was further behind in the Engineering programs at DU, so I picked Computer Science as a major because it seemed the most adjacent. I had never coded anything in my life, or even considered Computer Science as a potential major or career path. As a kinetic learner, I immediately feel in love with solving problems through software engineering. It's black and white, yet it's artistic and open ended. Over time I've gone through different phases with it where I am more interested in a particular area, but I have never fallen out of love with it, and I'm eager to see all the ways I evolve through this career path.
 
-### Certifications
-- Certified Scrum Master - May 2022
-- AWS Certified Cloud Practitioner - February 2023
-- AWS Certified Solutions Architect Associate - April 2023
+I got my first Software Engineering internship at Foresyth Technologies in 2014, working on a SaaS project called "KillerIT". From there I started my professional career as a junior Software Engineer at the Nasdaq stock exchange. After a few years I left briefly to dabble in the startup world at Craftsy, right after they were bought by NBCUniversal. Unfortunately I was laid off at Craftsy and the company went under, so I returned to Nasdaq to work on the TradeGuard Risk Management platform.
 
-### Personal Interests
-In my free time you can find me playing tennis, collecting vinyl, reading, playing guitar, painting, doing yoga, paddle boarding, cooking and hanging out with my Golden Retriever, Sulley.
+In 2021, I got the opportunity to join the Engineering team at [eSpark Learning](https://www.esparklearning.com/), where I am currently a Senior Software Engineer. It was a major transition from a large Fortune 500 company to a small, scrappy startup of less than 40 people, but it was been invaluable experience. I find so much gratification in doing work that benefits the community, and fosters my own personal and professional growth.
+
+Outside of work, you will find me pursuing an overabundance of hobbies and interests I have. I enjoy picking up new programming languages and technical skills through online courses, certifications, and tinkering with this website (which I put together with [Jekyll](https://jekyllrb.com/) and Github pages). Aside from tech projects, I'm most passionate about tennis, fitness things, and music. I love play the guitar, collecting vinyl records, going to concerts, and listening to music. I also really enjoy reading non-fiction, running, doing yoga, cooking and of course, hanging out with my 4 year old Golden Retriever, Sulley.
 
 <style>
 * {
@@ -51,6 +44,4 @@ In my free time you can find me playing tennis, collecting vinyl, reading, playi
     <img src="https://smpotts.github.io/assets/img/sulley_smirk.jpg" style="width:100%; height: auto;">
   </div>
 </div> 
-
-
    
