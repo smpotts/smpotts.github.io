@@ -22,8 +22,8 @@ Minors: Mathematics, Spanish
 June 2016  
 
 ### Professional Experience
-**eSpark Learning** | Software Engineer III | *August 2021 – Present*  
-*Key Contributions*  
+#### eSpark Learning 
+Software Engineer III   |    August 2021 – Present   
 * Demonstrated strong leadership and project management skills as Certified Scrum Master by leading scrum rituals, creating team processes, and curating a technical documentation space in Notion
     * Met with stakeholders to determine priorities, scope, and deliverables for each sprint
 * Refined ways to use data to improve product decision making and company wide data usability
@@ -42,11 +42,8 @@ June 2016
 * Unblocked a crucial upgrade to Rails 7 for the core Rails application by migrating from the Paperclip gem to the ActiveStorage gem
 * Helped phase out retired products by refactoring and removing deprecated Ruby code
 
-#### Nasdaq
-Software Engineer II
-*July 2018 – August 2021*
-
-**Key Contributions**  
+#### Nasdaq 
+Software Engineer II   |   July 2018 – August 2021
 * Worked on a new project which formulated order audit trail regulatory reports for clients and submitted them to FINRA on their behalf
     * Streamed drops of their daily trading activity using Java, Spring Boot, Kafka, Kubernetes, and various AWS services, and pieced together a cohesive timeline showing the lifecycle of the linked orders
 * Developed and delivered risk management reports to clients regarding complex trading strategies in use, risk exposure levels, market inconsistencies, and billing tiers calculations using Microsoft SQL Server
@@ -55,4 +52,28 @@ Software Engineer II
 * Constructed and maintained a new data warehouse in Postgres with a REST API interface to analyze team report delivery metrics and ensure SLA accuracy
 * Leveraged an open source project called Poli to implement an internal dashboard and analytics tool to create ad-hoc reports, visualize reporting data, and minimize manual processes
     * Configured JDBC connections to Postgres, MySQL, and SQL Server reporting databases and wrote queries to serve data to the dashboard components
+
+#### Craftsy (an NBCUniversal Company) 
+Data Warehouse Developer   |   October 2017 – July 2018
+* Enhanced the scope of the data warehouse project by pipelining data from additional sources and refining the architecture to meet the needs of the business analysts and data consumers
+    * Configured the data visualization tool, Looker, to retrieve data from the data warehouse to make available to populate dashboards, analyze business segments, and enable users to create self-service reports
+* Created a marketing forecast to calculate 30-day rolling averages to forecast important business metrics, marketing costs, and revenue for different marketing channels
+* Developed API connections for several marketing channels (YouTube, Facebook, Pinterest and more) to gather ad engagement metrics and attribute costs to marketing actions
+* Assembled a new development environment and created development standards for the data warehouse project
+    * Put the project in version control in git and created a workflow of task management in JIRA
+    * Set up a version-controlled password management tool for the project using Python SOPS
+
+#### Nasdaq
+Software Engineer I   |   June 2016 – September 2017
+* Created a workflow engine for a new equities dark pool using Java and Spring, and ingested data into separate secure client accounts in Redshift per regulatory requirements
+* Helped launch a new Business Intelligence project and created a unified platform for five options and three equities exchanges to deliver BI reports
+    * Established a snowflake data model and developed ETL with Pentaho Data Integration
+    * Documented and maintained source to target data mappings and collaborated with various business units on their reporting needs
+
+#### Nasdaq
+Software Engineering Intern   |   June 2015 – June 2016
+* Assisted senior engineers in developing the Nasdaq Data Warehouse application written in Java and Spring
+    * Pipelined raw data from the trading system into AWS under heavy regulatory requirements
+    * Enforced data quality and data integrity while ingesting millions of records per day
+    * Archived the data from Redshift into long term storage in Amazon S3 and Glacier
 
