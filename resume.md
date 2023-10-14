@@ -16,17 +16,14 @@ I am a passionate, creative, and curious Senior Software Engineer seeking to use
 ***Project Management***: Git, Notion, Kanban, Asana, Agile methodologies, JIRA, Confluence  
 
 ### Education
-**University of Denver**  
-Bachelor of Science in Computer Science	 
+#### University of Denver  
+**Bachelor of Science in Computer Science**  
 Minors: Mathematics, Spanish  
 June 2016  
 
 ### Professional Experience
-#### eSpark Learning  
-Software Engineer III  
-*August 2021 – Present*  
-
-**Key Contributions**  
+**eSpark Learning** | Software Engineer III | *August 2021 – Present*  
+*Key Contributions*  
 * Demonstrated strong leadership and project management skills as Certified Scrum Master by leading scrum rituals, creating team processes, and curating a technical documentation space in Notion
     * Met with stakeholders to determine priorities, scope, and deliverables for each sprint
 * Refined ways to use data to improve product decision making and company wide data usability
@@ -45,4 +42,17 @@ Software Engineer III
 * Unblocked a crucial upgrade to Rails 7 for the core Rails application by migrating from the Paperclip gem to the ActiveStorage gem
 * Helped phase out retired products by refactoring and removing deprecated Ruby code
 
+#### Nasdaq
+Software Engineer II
+*July 2018 – August 2021*
+
+**Key Contributions**  
+* Worked on a new project which formulated order audit trail regulatory reports for clients and submitted them to FINRA on their behalf
+    * Streamed drops of their daily trading activity using Java, Spring Boot, Kafka, Kubernetes, and various AWS services, and pieced together a cohesive timeline showing the lifecycle of the linked orders
+* Developed and delivered risk management reports to clients regarding complex trading strategies in use, risk exposure levels, market inconsistencies, and billing tiers calculations using Microsoft SQL Server
+    * Helped maintain a cluster of 12 Windows servers both physical and virtual, to process the data and deliver roughly 300 daily reports
+    * Migrated the project’s version control from VSS to git
+* Constructed and maintained a new data warehouse in Postgres with a REST API interface to analyze team report delivery metrics and ensure SLA accuracy
+* Leveraged an open source project called Poli to implement an internal dashboard and analytics tool to create ad-hoc reports, visualize reporting data, and minimize manual processes
+    * Configured JDBC connections to Postgres, MySQL, and SQL Server reporting databases and wrote queries to serve data to the dashboard components
 
