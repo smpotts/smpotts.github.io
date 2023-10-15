@@ -21,9 +21,9 @@ Minors: Mathematics, Spanish
 June 2016  
 
 ### Certifications
-AWS Certified Solutions Architect Associate *(April 2023)*  
-AWS Certified Cloud Practitioner *(February 2023)*
-Certified Scrum Master *(May 2022)*
+AWS Certified Solutions Architect Associate - April 2023  
+AWS Certified Cloud Practitioner - February 2023  
+Certified Scrum Master - May 2022  
 
 ### Professional Experience
 #### eSpark Learning 
