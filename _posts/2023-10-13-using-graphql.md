@@ -1,22 +1,22 @@
 ---
 layout: post
 title: GraphQL as an alternative to REST APIs
-subtitle: I tried GraphQL and I really liked it
+subtitle: I tried GraphQL, and I really liked it
 cover-img: /assets/img/fairplay.jpg
 thumbnail-img: /assets/img/fairplay.jpg
 share-img: /assets/img/fairplay.jpg
 tags: [tech, graphql, ruby, ruby_on_rails]
 ---
 
-I was perusing the Ruby on Rails courses on Udemy recently and came across a [course](https://www.udemy.com/course/basics-of-graphql-with-ruby-on-rails/) on using GraphQL with Ruby on Rails. It was a short hour and a half of video content, so I purchased it and followed along with the videos. The course instructor, Alex Deva, does an awesome job explaining the concepts and walking through small projects that demonstrate how and when to use GraphQL. I had heard of GraphQL before, but I didn't have any exposure to it up until this course. 
+I was perusing the Ruby on Rails courses on Udemy recently and came across a [course](https://www.udemy.com/course/basics-of-graphql-with-ruby-on-rails/) on using GraphQL with Ruby on Rails. It was a short hour, and a half of video content, so I purchased it and followed along with the videos. The course instructor, Alex Deva, does an awesome job explaining the concepts and walking through small projects that demonstrate how and when to use GraphQL. I had heard of GraphQL before, but I didn't have any exposure to it up until this course. 
 
-GraphQL is an alternative to using a REST API where you have two pieces of software (like a backend and a frontend) that need to communicate with each other. In a lot of cases, the underlying data for the application needs to change based on things that happen, for instance when the user takes some sort of action like clicking a button. With GraphQL you create queries to describe the exact data you want to get back. The idea with GraphQL is that you get back exactly what you need instead of having to deal with additional data that isn't necessary, which you often do with REST.
+GraphQL is an alternative to using a REST API where you have two pieces of software (like a backend, and a frontend) that need to communicate with each other. In a lot of cases, the underlying data for the application needs to change based on things that happen, for instance when the user takes some sort of action like clicking a button. With GraphQL you create queries to describe the exact data you want to get back. The idea with GraphQL is that you get back exactly what you need instead of having to deal with additional data that isn't necessary, which you often do with REST.
 
-The course recommends installing [GraphiQL](https://github.com/graphql/graphiql), and I really enjoyed working with it. GraphiQL was pretty easy to install and it's very simple and lightweight. You have to add ```gem "graphql"``` to your Gemfile and start the rails server, then you can start interacting with GraphiQL on port 3000.
+The course recommends installing [GraphiQL](https://github.com/graphql/graphiql), and I really enjoyed working with it. GraphiQL was pretty easy to install, and it's very simple and lightweight. You have to add ```gem "graphql"``` to your Gemfile and start the Rails server, then you can start interacting with GraphiQL on port 3000.
 
 [![Screenshot-2023-10-13-at-6-45-15-AM.png](https://i.postimg.cc/YqQGpc7D/Screenshot-2023-10-13-at-6-45-15-AM.png)](https://postimg.cc/SJNNrvJc)
 
-With GraphQL you read data through the use of queries. By default the project creates a file called ```query_type.rb``` where you can define root level fields which can be added as a data point to retrieve in the queries. The example test field it provides looks like this:
+With GraphQL you read data through the use of queries. By default, the project creates a file called ```query_type.rb``` where you can define root level fields which can be added as a data point to retrieve in the queries. The example test field it provides looks like this:
 ```
     field :test_field, String, null: false,
       description: "An example field added by the generator" do
@@ -48,7 +48,7 @@ end
 
 This was hard to wrap my head around at first because the root level fields in the ```query_type.rb``` file also extend ```Types::BaseObject```, but I guess the way I think of it is that those are more general/ project level fields, whereas fields defined in their own Type classes are specifically for that ActiveRecord object. I grew to appreciate the way this is organized so everything isn't jammed into one file.
 
-Mutations are the other key component of GraphQL, and those are used to write/ update data. When the project is generated it creates a ```mutation_type.rb``` file, containing fields and methods for mutations similiar to how they are set up for queries. The methods for the fields in the ```mutation_type.rb``` class are going to do some type of creating or updating of the underlying data.
+Mutations are the other key component of GraphQL, and those are used to write/ update data. When the project is generated it creates a ```mutation_type.rb``` file, containing fields and methods for mutations similar to how they are set up for queries. The methods for the fields in the ```mutation_type.rb``` class are going to do some type of creating or updating of the underlying data.
 
 You can simplify the creation of a mutation by creating an InputType, which defines a data structure that can be used as an input for the mutation, instead of having to list out every attribute of the object it should return.
 
