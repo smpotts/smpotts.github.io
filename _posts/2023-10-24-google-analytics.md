@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up web analytics and data collection using Google Analytics
+title: Setting up web analytics and data collection with Google Analytics
 subtitle: My experience implementing it on my website
 cover-img: /assets/img/res.jpeg
 thumbnail-img: /assets/img/res.jpeg
