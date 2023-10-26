@@ -5,7 +5,7 @@ cover-img: /assets/img/fiesta5.jpg
 ---
 
 ### Summary
-I am a passionate, creative, and curious Senior Software Engineer seeking to use and expand skill sets in backend engineering, data, and cloud technologies. A growth focused self-learner ready to adapt to any toolset, an evangelist for quality, a champion of collaboration.
+I am a passionate, creative, and curious Senior Software Engineer seeking to use and expand skill sets in backend engineering, data, and cloud technologies. I'm a growth focused self-learner ready to adapt to any toolset, an evangelist for quality, a champion of collaboration.
 
 ### Technical Skills Summary
 ***SQL***: Redshift, MySQL, Postgres, SQL Server  
