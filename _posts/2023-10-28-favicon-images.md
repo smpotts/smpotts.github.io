@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Adding images to browser tabs with Favicon
-subtitle: How I got this work on my site without favicon generators
+title: Adding a Favicon image to browser tabs
+subtitle: How I got this work on my site
 cover-img: /assets/img/skeleton_tennis.jpeg
 thumbnail-img: /assets/img/skeleton_tennis.jpeg
 share-img: /assets/img/skeleton_tennis.jpeg
