@@ -21,6 +21,7 @@ Minors: Mathematics, Spanish
 June 2016  
 
 ### Certifications
+NASM Certified Nutrition Coach - November 2023
 AWS Certified Solutions Architect Associate - April 2023  
 AWS Certified Cloud Practitioner - February 2023  
 Certified Scrum Master - May 2022  
