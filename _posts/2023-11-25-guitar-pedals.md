@@ -2,9 +2,9 @@
 layout: post
 title: Guitar pedals are necessary and worth it 
 subtitle: I finally appreciate the use of guitar pedals
-cover-img: /assets/img/strat.jpg
-thumbnail-img: /assets/img/strat.jpg
-share-img: /assets/img/strat.jpg
+cover-img: /assets/img/fender_strat.jpg
+thumbnail-img: /assets/img/fender_strat.jpg
+share-img: /assets/img/fender_strat.jpg
 tags: [music, guitar, pedals]
 ---
 
