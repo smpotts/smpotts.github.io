@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuring a custom domain with Github pages 
-subtitle: Switching from the Github subdomain to a custom one in roughly an hour
+subtitle: Switching from the Github subdomain to a custom domain in roughly an hour
 cover-img: /assets/img/balboa2.jpg
 thumbnail-img: /assets/img/balboa2.jpg
 share-img: /assets/img/balboa2.jpg
