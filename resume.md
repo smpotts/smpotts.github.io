@@ -10,12 +10,12 @@ Curious and passionate self-learner who enjoys using technology and data to solv
 ***Engineering***: SQL, Ruby on Rails, Java, Python, R, Docker, Terraform, Kafka, Kubernetes 
 ***Data/ ETL***: dbt, Redshift, MySQL, Postgres, SQL Server, Metabase, Looker, Google Analytics  
 ***Operating Systems***: Mac, Linux  
-***AWS Services***: Redshift, Lambda, S3, RDS, CloudWatch, Kinesis, EC2, MSK, EKS 
+***AWS Services***: Redshift, Lambda, S3, RDS, CloudWatch, Kinesis, EC2, MSK, EKS  
 ***Project Management***: Git, Notion, Kanban, Asana, Agile methodologies, JIRA, Confluence  
 
 ### Education
 #### Georgia Institute of Technology
-Masters of Science in Analytics
+Masters of Science in Analytics  
 starting August 2024
 
 #### University of Denver  
