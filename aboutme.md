@@ -5,7 +5,7 @@ subtitle: Hi, I'm Shelby
 cover-img: /assets/img/maroon_bells.jpg
 ---
 
-I'm wildly curious, creative, and growth oriented. I have a passion for learning new things, whether it's technology related, hobby related, or something entirely different. 
+I'm wildly curious and I have a passion for learning new things, whether it's technology related, hobby related, or something entirely different. 
 
 I've always had a drive to understand how things work, which has lent itself well to my career in Software Engineering. I fell into Computer Science by accident after I transferred from Baylor University to the University of Denver. The trasition from the semester system to the quarter system meant that I was further behind in the Engineering programs at DU, so I picked Computer Science as a major because it seemed the most adjacent. I had never coded anything in my life, or even considered Computer Science as a potential major or career path. As a kinetic learner, I immediately feel in love with solving problems through software engineering. It's black and white, yet it's artistic and open ended. Over time I've gone through different phases with it where I am more interested in a particular area, but I have never fallen out of love with it, and I'm eager to see all the ways I evolve through this career path.
 
