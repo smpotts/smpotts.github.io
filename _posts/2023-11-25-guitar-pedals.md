@@ -16,3 +16,4 @@ I toggled the pedals on an off, recreating the effects on the amp as I had been 
 
 Putting together a good sounding set up is not cheap, but now I understand that pedals are worth the money and make the experience of playing the electric guitar a lot more enjoyable.
 
+Photo: Fender Stratocaster American Professional
