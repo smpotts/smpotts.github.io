@@ -21,7 +21,7 @@ author: Shelby Potts
 
 navbar-links:
   About: "aboutme"
-  Writing: "writing"
+  Blog: "blog"
   Resume: "resume"
   Contact: "mailto:shelbypotts.connect@gmail.com"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
