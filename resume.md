@@ -78,7 +78,7 @@ June 2016
 * Documented the development process using several software modeling techniques such as UML diagrams, class diagrams, sequence diagrams, and activity diagrams
 
 ### Certifications
-AWS Certified Solutions Architect Associate - April 2023  
-AWS Certified Cloud Practitioner - February 2023  
-Certified Scrum Master - May 2022  
-NASM Certified Nutrition Coach - November 2023 
+**AWS Certified Solutions Architect Associate** | *April 2023*    
+**AWS Certified Cloud Practitioner** | *February 2023*  
+**Certified Scrum Master** | *May 2022*  
+**NASM Certified Nutrition Coach** | *November 2023* 
