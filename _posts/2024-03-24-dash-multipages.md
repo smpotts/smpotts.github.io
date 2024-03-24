@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-page, one file Dash Plotly applications
+title: Multi-page, single file Dash Plotly applications
 subtitle: A solution for large, data intensive apps
 cover-img: /assets/img/graffiti.jpg
 thumbnail-img: /assets/img/graffiti.jpg
