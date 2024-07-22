@@ -4,7 +4,7 @@ title: Resume
 cover-img: /assets/img/fiesta5.jpg
 ---
 
-Curious and passionate self-learner who enjoys using technology and data to solve problems.
+A curious and passionate self-learner who enjoys using technology and data to solve problems.
 
 ### Technical Skills
 ***Engineering***: SQL, Ruby on Rails, Java, Python, R, Docker, Terraform, Kafka, Kubernetes   
@@ -14,10 +14,6 @@ Curious and passionate self-learner who enjoys using technology and data to solv
 ***Project Management***: Git, Notion, Kanban, Asana, Agile methodologies, JIRA, Confluence  
 
 ### Education
-**Georgia Institute of Technology**  
-Masters of Science in Analytics  
-starting August 2024
-
 **University of Denver**  
 Bachelor of Science in Computer Science  
 Minors: Mathematics, Spanish  
@@ -25,22 +21,23 @@ June 2016
 
 ### Professional Experience
 **Data Team Lead at eSpark Learning**   |   *August 2021 – Present*   
-* Demonstrated strong leadership skills as the Data & Infrastructure team lead by managing the data science division and performing the role of Certified Scrum Master
-    * People managed one data scientist, and helped create and execute project plans for data science
+* Demonstrated strong leadership skills as the Data & Infrastructure team lead and Certified Scrum Master
+    * Managed a data scientist, collaborated to develop and implement project plans for data science initiatives
     * Led scrum rituals, met with stakeholders to determine scope and deliverables, created team processes, and technical documentation
+* Optimized data utilization strategies to enhance product decision-making and improve company-wide data accessibility
+    * Contributed to defining and implementing key company metrics
+    * Utilized Redshift analytics data to develop internal and external dashboards in SQL, aiding Customer and Sales teams in showcasing product effectiveness
+    * Led a comprehensive cleanup and restructuring of the internal Metabase instance to improve usability and efficiency
 * Helped orchestrate a streaming event system where events are sent to Redshift from the Ruby on Rails applications via Kinesis Firehose
-    * Built new dbt models from the streaming events data to serve data science and analytics purposes
-* Built new avenues to provide accurate, clean data to the core Ruby on Rails application for better in-product decision making
-    * Leveraged the Redshift Data API to server complex aggregations from the data warehouse back to the Ruby on Rails application
-    * Helped refactored the licensing implementation in the Ruby on Rails application to use data integrated directly from the Salesforce Data API
-* Developed API integrations with heavily relied upon 3rd party data sources (Calendly, Salesforce, Intercom) in order to capture accurate data in the core Ruby on Rails application
-* Enhanced and supported critical AWS cloud infrastructure used by the core applications, company website, and engineering teams
-    * Setup new AWS infrastructure, contributed to CI/CD setup, and created Github actions for new engineering projects
-    * Migrated existing AWS infrastructure into Terraform and wrote Lambda functions in Python to automate processes
-* Refined ways to use data to improve product decision making and company wide data usability
-    * Helped define and reimplement key company metrics
-    * Leveraged analytics data in Redshift to build internal and external dashboards in Metabase to help Customer and Sales teams demonstrate product efficacy
-    * Planned and executed a major clean up and restructuring of the internal company Metabase
+    * Developed new dbt models in SQL from streaming event data to support data science and analytics objectives
+* Developed and implemented new processes to deliver accurate, clean data to the core Ruby on Rails application, improving in-product decision-making
+    * Utilized the Redshift Data API to serve complex aggregations from the data warehouse to the Ruby on Rails application
+    * Refactored the product licensing implementation in the Ruby on Rails application by integrating data directly from the Salesforce Data API
+* Developed robust API integrations with key third-party data sources (Calendly, Salesforce, Intercom) to capture accurate data within the core Ruby on Rails application
+* Enhanced and maintained vital AWS cloud infrastructure supporting core applications, the company website, and engineering teams
+    * Configured new AWS infrastructure, contributed to CI/CD setup, and developed GitHub Actions for new engineering projects
+    * Migrated existing AWS infrastructure to Terraform and developed Python-based Lambda functions to automate processes
+
 
 **Senior Software Engineer at Nasdaq**   |  *July 2018 – August 2021*   
 * Worked on a new project which formulated order audit trail regulatory reports for clients and submitted them to FINRA on their behalf
@@ -78,7 +75,7 @@ June 2016
 * Documented the development process using several software modeling techniques such as UML diagrams, class diagrams, sequence diagrams, and activity diagrams
 
 ### Certifications
+**Certified Scrum Master** | *May 2024* 
 **AWS Certified Solutions Architect Associate** | *April 2023*    
 **AWS Certified Cloud Practitioner** | *February 2023*  
-**Certified Scrum Master** | *May 2022*  
 **NASM Certified Nutrition Coach** | *November 2023* 
