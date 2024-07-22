@@ -35,5 +35,3 @@ Through some research, I learned Google Tag Manager is a tool that makes it easi
 Getting things setup with Google Tag Manager still didn't resolve the message in Google Analytics saying that my data stream was not receiving data, so I spent some time trying to figure out why it said it still wasn't working. I found out that it takes between 24-48 hours for the Google Analytics setup to take full effect. After I gave it a couple days, I went back and checked and now everything is set up correctly. 
 
 Setting up Google Analytics and Google Tag Manager was a worthwhile experiment, and I'm looking forward to analyzing the site data it collects.
-
-Photo: Navajo Reservation

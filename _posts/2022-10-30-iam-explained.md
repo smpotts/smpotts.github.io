@@ -51,5 +51,3 @@ This is one of the IAM pieces that has tripped me up in the past. Inline policie
 This is the other IAM piece that I have had a hard time conceptualizing because it seems so similar to the other components of IAM and the explanations in the AWS docs feel very prolix. Basically, roles are used to give one part of AWS access to another part of AWS. This makes sense in the case where you want to give one AWS service like EC2 access to another service like AWS MSK. I think the part that is harder to grasp is that users and groups can also be assigned roles, which can be assigned temporarily or permanently. I suppose a use case for roles could be where you have a small subset of developers who are working on a new project and need access to customer data stored in S3. You don't want ALL the developers in the "developers" group to have this level of access, only a subset of users for a fixed amount of time, so you could create a role and assign it to the specific developers who need access.
 
 Understanding these different aspects of IAM and how they relate to each other makes it easier to use IAM cleanly and effectively.
-
-Photo: Steamboat Springs, CO

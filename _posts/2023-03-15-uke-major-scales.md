@@ -25,5 +25,3 @@ I was experimenting with the scales trying to find how I could connect my main p
 It's a little weird to wrap my head around because I'm moving left across the neck while I'm getting higher in pitch which I'm not used to with playing guitar. I do like this shape a lot though because it's the same on both strings, so it's easy to remember and move between.
 
 I need to spend some more time getting comfortable moving outside this shape before giving the ukulele back (or buying my own again), but I'm really excited about seeing more options on the fretboard now.
-
-Photo: The Grand Ole Opry in Nashville, TN

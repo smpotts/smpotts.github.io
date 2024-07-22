@@ -15,5 +15,3 @@ I love using Gitkraken because it makes the more complicated git operations sign
 There are other tools available like SourceTree that have a git UI tool, and I've tried a few others, but I think Gitkraken is the best tool on the market by a landslide. I think a large part of that is just that the UI is so sleek, clean, and easy to use. It's stayed mostly consistent over the years too so I feel very comfortable using it. I've wanted to like SourceTree and adopt it because it's free, but my issue is that the UI is so overwhelming and there are way too many buttons and windows on the UI so I end up making little mistakes using it.
 
 The one sad thing about Gitkraken is that they no longer have a free tier of any kind, so you need a personal and a professional license to use it. I will gladly pay for licenses because this tool is totally worth it, and it makes my life so much easier so I can focus on the work I'm doing.
-
-Photo: Denver, CO

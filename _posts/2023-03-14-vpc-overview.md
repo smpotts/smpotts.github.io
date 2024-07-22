@@ -40,5 +40,3 @@ The next component of the VPC is the Internet Gateway which is the mechanism tha
 NAT (Network Address Translation) Gateways allow the private subnets within the VPC to access the public internet and other resources outside the subnet, without allowing access in from the internet. This requires configuration in the Route table to provide additional access. NAT Gateways are not associated with security groups, and they need to be deployed in the public subnet. 
 
 There are several other important services within the VPC/ Networking orbit, but these are the core components I've come across and how they relate to each other.
-
-Photo: outside of Taos, NM

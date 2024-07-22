@@ -71,5 +71,3 @@ The Records are a bit more intimidating, but basically they are arrays of key va
 This response object is also of type dict, and you would have to write a parser to pull the data out of the response objects if needed, but essentially those are the main pieces you would need in order to interact with the data from the response.
 
 That's it for the short demo on using the Redshift Data API!
-
-Photo: Newport, RI 

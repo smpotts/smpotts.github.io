@@ -54,4 +54,3 @@ If you want to learn more about rbenv, the documentation is fantastic and can be
 
 Although this was a major headache that spanned several months, ultimately I'm glad it happened because it forced me to truly understand each of these steps. Now I'm well on my way to building Rails applications!
 
-Photo: Bandelier National Monument in Los Alamos, NM

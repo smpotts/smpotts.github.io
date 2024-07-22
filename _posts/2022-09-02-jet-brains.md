@@ -32,5 +32,3 @@ One of the other great file search features with these IDEs is how you can find 
 The debugging features in the JetBrains IDEs are the least sexy, and most valuable features they offer. If you are someone like me who often works across different languages, this is great because it's setup and used roughly the same way for each language. You simply set the break points and then can iterate through the code line by line or advance to the next break point. Along the way it shows a clean UI with the stack trace on one side of the bottom of the screen and the variables and their state on the other side. I've only scratched the surface with all the ways you can use the debugger, but it's clean and intuitive setup helps me set break points and find issues quickly.
 
 JetBrains IDEs are really great tools for developers of all different skill levels and languages. Their customizations and features are unparalleled, and you can even export your IDE settings, so they can be shared across all their products. I definitely recommend giving them a try!
-
-Photo: The Mississippi River in New Orleans, LA
