@@ -94,5 +94,3 @@ end
 ```
 
 Overall I thought the Udemy course was excellent, and I would love to spend more time working with GraphQL. It's a really fun and interesting way to interact with APIs.
-
-Photo: Fairplay, CO

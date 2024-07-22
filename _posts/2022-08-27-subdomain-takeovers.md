@@ -21,5 +21,3 @@ A subdomain is a way to separate or organize content within a domain. It could b
 
 ## Subdomain Takeovers
 Here is the general concept of a subdomain takeover. Say for example, I have a domain like "www.shelbylikescoffee.com", and then I create a subdomain "shop.shelbylikescoffee.com" where I have a separate section of the website specifically for selling merchandise. Then after some time I decide I don't want the online store, and I take down the hosted content but, forget to remove the subdomain DNS entry. Leaving the subdomain accessible and not having hosted content, makes my site vulnerable to a type of cyber attack called a "subdomain takeover". With a subdomain takeover, a hacker could take control over this subdomain and serve their own, malicious content to it, while the users think they are still accessing content related to my site. Given the potential for this type of attack, it's really important to stay on top of the subdomain DNS entries associated with your site and remove any that are not being used.
-
-Photo: Fairbanks, AK

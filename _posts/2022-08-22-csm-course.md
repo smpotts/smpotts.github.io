@@ -36,5 +36,3 @@ Overall I learned a lot from the CSM course and from studying for the exam. I wo
 - Measure What Matters by John Doerr
 - User Story Mapping by Jeff Patton
 - The Toyota Way by Jeffrey Liker
-
-Photo: Arches National Park in Moab, UT

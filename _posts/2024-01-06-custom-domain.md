@@ -25,5 +25,3 @@ The TLS certificate is a certificate proving that a person or business owns a do
 [![Screenshot-2024-01-06-at-09-18-37.png](https://i.postimg.cc/QCPHrykj/Screenshot-2024-01-06-at-09-18-37.png)](https://postimg.cc/YL6p68sP)
 
 After the TLS cert was verified, I was able to recheck the "Enforce HTTPS" checkbox again. I reloaded my webpage, and this time it was on HTTPS. Everything looks good and the whole process was quick and (mostly) painless.
-
-Photo: Balboa Park in San Diego, CA

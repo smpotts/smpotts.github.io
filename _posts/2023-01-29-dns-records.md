@@ -22,5 +22,3 @@ The "A" in an A record stands for address. A records are the most commonly used 
 CNAME stands for "canonical name". CNAME records are used to map the alias of a domain to another domain name. According to [CloudFlare](https://www.cloudflare.com/learning/dns/dns-records/dns-cname-record/), this is common when a website has subdomains that we want to point back to the root domain for maintenance purposes, etc.
 
 There are a lot more DNS record types out there, but there are the ones I have seen the most and have a great general understanding of now.
-
-Photo: Tracy City, TN

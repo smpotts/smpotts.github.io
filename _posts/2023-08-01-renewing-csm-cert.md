@@ -19,5 +19,3 @@ Eventually I sat down and thought, "ok I have to figure this out so I have time 
 The Scrum Alliance website links you to a resources section called [Learning Journey courses](https://resources.scrumalliance.org/learning-journey), which is where you can go to take short courses that will count towards your SEU credits. Each course tells you how many credits you earn for completing the content. I have bookmarked several of these. It also says on the website you can also earn SEU credits by volunteering, reading articles and attending events. When I think of how I could use my Scrum skills for volunteering nothing comes to mind, but I will start counting the articles I read about Scrum towards my SEU credits. There is also an option to attend events, but when I looked at the events they have posted on their website, there were very few and none of them were in the United States.
 
 The requirements for renewing the CSM cert were surprisingly hard to track down, but now I know what I need to do ad what is expected after future tests.
-
-Photo: Corrales, NM
