@@ -3,12 +3,11 @@ _site
 .sass-cache
 .vagrant
 .idea
+.pulled_articles
 
 # general
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-# Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
