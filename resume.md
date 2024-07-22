@@ -22,8 +22,7 @@ June 2016
 ### Professional Experience
 **Data Team Lead at eSpark Learning**   |   *August 2021 – Present*   
 * Demonstrated strong leadership skills as the Data & Infrastructure team lead and Certified Scrum Master
-    * Managed a data scientist, collaborated to develop and implement project plans for data science initiatives
-    * Led scrum rituals, met with stakeholders to determine scope and deliverables, created team processes, and technical documentation
+    * Led scrum rituals, met with stakeholders to determine scope and deliverables, created team processes, and wrote technical documentation
 * Optimized data utilization strategies to enhance product decision-making and improve company-wide data accessibility
     * Contributed to defining and implementing key company metrics
     * Utilized Redshift analytics data to develop internal and external dashboards in SQL, aiding Customer and Sales teams in showcasing product effectiveness
