@@ -1,0 +1,17 @@
+---
+layout: post
+title: Using interfaces to create boundaries in code 
+subtitle: Ideas from Clean Code Chapter 8 by Robert Martin
+cover-img: /assets/img/chicago_lakefront.jpg
+thumbnail-img: /assets/img/chicago_lakefront.jpg
+share-img: /assets/img/chicago_lakefront.jpg
+tags: [tech, computer_science, books] 
+---
+
+Our engineering team is progressing through [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert Martin, and one of the chapters that I've found most interesting so far is Chapter 8 where he talks about Boundaries. One of the things Robert Martin calls attention to is the fact that our software systems are often an amalgamation of things. Anything from legacy code that nobody wants to own, to open-source code, to in-house products that have been built to fill a gap, to 3rd party APIs, to new code. This has been the case on every project I have worked on so far in my career. There is always some degree of all of these different components of a software system. In Chapter 8: Boundaries, Robert Martin discusses how to create boundaries between the new code you are trying to develop and these pre-existing components of the project, so you can maintain clean and robust code.
+
+Right off the bat, one of the things that struck me the most is how Robert Martin talks about creating your own interface for your project to interact with 3rd party APIs. He gives an example of using an interface to manage a Java class that needs to implement `java.util.Map`. At first this seemed like major overkill, and he even admits that it might come across that way because it is unlikely that the `Map` interface will change so drastically breaks existing implementations. But he does provide evidence of this by mentioning how the interface changed when generics support was added with the release of Java 5. At this point he's won me over, and I began thinking about how many times I've worked with 3rd party APIs and pretty much directly embedded them into our application code. This requires that anyone who modifies the code understands how the API works, and if for some reason the team decides to change out the 3rd party API tool for something else, it requires a total rework of the code. The idea of implementing an interface so your application code doesn't need to be concerned with the details of the 3rd party API is very compelling because it encapsulates all that logic into one cohesive place.
+
+Robert Martin also had some interesting points in the section of Chapter 8 titled, "Using Code That Does Not Yet Exist". The specific example he uses was a bit lost of me, but the point is you can create a boundary interface as the middle layer between the thing you are creating and the piece you want it to interact with. This interface is designed with the idea in mind of how you would *ideally* want things to behave or how you would want these two systems to interact with one another. The example that he gives talks about writing a new microservice that depends on a legacy system that nobody wants to support. This well-thought-out interface allows the new microservice to stay clean and unaffected by the legacy service, while still allowing them to interact.
+
+Having thought about applications of this I've seen in the past, I'm interested to see how an interface for 3rd party systems might benefit parts of the code I've written, and it will definitely be a consideration in the future.
