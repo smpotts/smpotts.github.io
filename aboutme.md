@@ -5,13 +5,13 @@ subtitle: Hi, I'm Shelby
 cover-img: /assets/img/maroon_bells.jpg
 ---
 
-I'm wildly curious, and I have a passion for learning new things. 
+I have a passion for learning new things. 
 
 I've always had a drive to understand how things work, which has lent itself well to my career in software engineering. I fell into Computer Science by accident after I transferred from Baylor University to the University of Denver. The transition from the semester system to the quarter system meant that I was further behind in the Engineering programs at the University of Denver, so I picked Computer Science as a major because it seemed the most adjacent. I had never coded anything in my life, or even considered Computer Science as a potential major or career path. As a kinetic learner, I immediately feel in love with solving problems through software engineering. It's black and white, yet it's creative and open ended. Over time I've gone through different phases with it where I'm more interested in a particular area, but I have never fallen out of love with it, and I'm eager to see all the ways I evolve through this career path.
 
 I am currently a Data Engineer at ShorePoint Inc., working primarily with Python, Kafka, and AWS.
 
-Outside of work, I am currently pursuring a Master of Science in Data Science at Eastern University. I also love creating and contributing to technical projects I've started on GitHub when I have spare time. Aside from tech projects, you can find me playing tennis, playing or listening to music, reading non-fiction, or hanging out with my Golden Retriever, Sulley.
+Outside of work, I am currently pursuring a Master of Science in Data Science at Eastern University. I also love creating and contributing to technical projects I've started on GitHub when I have time. Aside from tech projects, you can find me playing tennis, obsessing over music, reading non-fiction, or hanging out with my Golden Retriever, Sulley.
 
 <style>
 * {
