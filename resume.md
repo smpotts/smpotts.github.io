@@ -109,7 +109,10 @@ diagrams embedded in a webpage using JavaScript and AngularJS
 * Documented the development process using UML, class, sequence, and activity diagrams  
 
 ### Certifications
-Certified Scrum Master | *May 2024 - 2026*   
-AWS Certified Solutions Architect Associate | *April 2023 - 2026*    
-AWS Certified Cloud Practitioner | *February 2023 - 2026*  
-NASM Certified Nutrition Coach | *November 2023 - 2025*
+
+| Certification                                | Validity         |
+|---------------------------------------------|------------------|
+| **Certified Scrum Master**                  | *May 2024 – 2026* |
+| **AWS Certified Solutions Architect Associate** | *April 2023 - 2026* |
+| **AWS Certified Cloud Practitioner** | *February 2023 - 2026* |
+| **NASM Certified Nutrition Coach** | *November 2023 - 2025* |
