@@ -112,7 +112,7 @@ diagrams embedded in a webpage using JavaScript and AngularJS
 
 | Certification                                | Validity         |
 |---------------------------------------------|------------------|
-| **Certified Scrum Master**                  | *May 2024 – 2026* |
-| **AWS Certified Solutions Architect Associate** | *April 2023 - 2026* |
-| **AWS Certified Cloud Practitioner** | *February 2023 - 2026* |
-| **NASM Certified Nutrition Coach** | *November 2023 - 2025* |
+| Certified Scrum Master                  | *May 2024 – 2026* |
+| AWS Certified Solutions Architect Associate | *April 2023 - 2026* |
+| AWS Certified Cloud Practitioner | *February 2023 - 2026* |
+| NASM Certified Nutrition Coach | *November 2023 - 2025* |
