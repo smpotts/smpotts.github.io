@@ -7,7 +7,7 @@ cover-img: /assets/img/fiesta5.jpg
 A curious and passionate self-learner who enjoys using technology and data to solve problems.
 
 ### Core Skills
-**Engineering**: SQL, Python, Ruby on Rails, Docker, R, Kafka, Kubernetes, Terraform, Java 
+**Engineering**: SQL, Python, Ruby on Rails, Docker, R, Kafka, Kubernetes, Terraform, Java   
 **Data/ ETL**: dbt, Redshift, MySQL, Postgres, SQL Server, Jupyter Notebooks, Pandas, NumPy, Mage, Stitch, Census, Metabase, Looker, Google Analytics  
 **Operating Systems**: Mac, Linux  
 **AWS Services**: Redshift, Lambda, S3, RDS, CloudWatch, Kinesis Firehose, EC2, DMS  
@@ -50,9 +50,6 @@ customer engagement
 * Utilized the open-source tool Mage for data orchestration, transferring data between the
 internal Redshift warehouse and a Postgres instance for external customers, ensuring the
 delivery of clean, reliable data to customer dashboards  
-* Conducted data science analyses of product queries in Python using Jupyter Notebooks,
-leveraging Pandas and NumPy enabling a better understanding of how the product
-influenced student learning outcomes, engagement, and usage patterns  
 * Developed and maintained AWS cloud infrastructure, implementing infrastructure as code
 using Terraform, which enhanced system reliability and streamlined deployment processes  
 * Contributed to data related projects within the core Ruby on Rails application,
