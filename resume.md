@@ -7,11 +7,11 @@ cover-img: /assets/img/fiesta5.jpg
 A curious and passionate self-learner who enjoys using technology and data to solve problems.
 
 ### Core Skills
-***Engineering***: SQL, Python, Ruby on Rails, Docker, R, Kafka, Kubernetes, Terraform, Java 
-***Data/ ETL***: dbt, Redshift, MySQL, Postgres, SQL Server, Jupyter Notebooks, Pandas, NumPy, Mage, Stitch, Census, Metabase, Looker, Google Analytics
-***Operating Systems***: Mac, Linux  
-***AWS Services***: Redshift, Lambda, S3, RDS, CloudWatch, Kinesis Firehose, EC2, DMS  
-***Project Management***: Git, Notion, Kanban, Asana, Agile methodologies, JIRA, Confluence  
+**Engineering**: SQL, Python, Ruby on Rails, Docker, R, Kafka, Kubernetes, Terraform, Java 
+**Data/ ETL**: dbt, Redshift, MySQL, Postgres, SQL Server, Jupyter Notebooks, Pandas, NumPy, Mage, Stitch, Census, Metabase, Looker, Google Analytics  
+**Operating Systems**: Mac, Linux  
+**AWS Services**: Redshift, Lambda, S3, RDS, CloudWatch, Kinesis Firehose, EC2, DMS  
+**Project Management**: Git, Notion, Kanban, Asana, Agile methodologies, JIRA, Confluence  
 
 ### Education  
 **Eastern University**  
@@ -112,7 +112,7 @@ diagrams embedded in a webpage using JavaScript and AngularJS
 * Documented the development process using UML, class, sequence, and activity diagrams  
 
 ### Certifications
-**Certified Scrum Master** | *May 2024 - 2026*   
-**AWS Certified Solutions Architect Associate** | *April 2023 - 2026*    
-**AWS Certified Cloud Practitioner** | *February 2023 - 2026*  
-**NASM Certified Nutrition Coach** | *November 2023 - 2025*
+Certified Scrum Master | *May 2024 - 2026*   
+AWS Certified Solutions Architect Associate | *April 2023 - 2026*    
+AWS Certified Cloud Practitioner | *February 2023 - 2026*  
+NASM Certified Nutrition Coach | *November 2023 - 2025*
