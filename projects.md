@@ -27,7 +27,7 @@ In this notebook, I leverage data analysis and visualization techniques using gg
 
 - Technologies: R, Jupyter, ggplot2, dplyr, tidyr  
 - Focus: Reproducible visual insights from real-world ecological data  
-- GitHub: [View Notebook](https://github.com/smpotts/palmerpenguins-data-story)
+- GitHub: [View Repository](https://github.com/smpotts/palmerpenguins-data-story)
 
 ---
 
@@ -39,6 +39,6 @@ This project analyzes data from the 2021 Behavioral Risk Factor Surveillance Sys
 - Technologies: R, Jupyter, tidyverse, lm.beta
 - Dataset: 2021 BRFSS (Behavioral Risk Factor Surveillance System)  
 - Focus: Mental health prediction using linear regression  
-- GitHub: [View Notebook](https://github.com/smpotts/brfss-health-modeling)
+- GitHub: [View Repository](https://github.com/smpotts/brfss-health-modeling)
 
 ---
