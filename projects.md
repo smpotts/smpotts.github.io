@@ -20,17 +20,6 @@ By examining the user's profile, dating preferences, and interactions with other
 
 ---
 
-## **Palmer Penguins Data Storytelling**
-*A data science portfolio project using the palmerpenguins dataset, a collection of data about penguins from the Palmer Archipelago in Antarctica.*   
-
-In this notebook, I leverage data analysis and visualization techniques using ggplot2, and I explore and uncover insights from the palmerpenguins dataset through compelling visualizations.
-
-- Technologies: R, Jupyter, ggplot2, dplyr, tidyr  
-- Focus: Reproducible visual insights from real-world ecological data  
-- GitHub: [View Repository](https://github.com/smpotts/palmerpenguins-data-story)
-
----
-
 ## **BRFSS 2021 Mental Health Analysis**  
 *Predicting mental health outcomes using CDC survey data.*  
 
@@ -43,11 +32,25 @@ This project analyzes data from the 2021 Behavioral Risk Factor Surveillance Sys
 
 ---
 
-## **Scooby-Doo Episode Analysis**
-*Analyzing episode data from the popular TV show Scooby-Doo.*
+## **Scooby-Doo Episode Analysis**  
+*Unmasking decades of cartoon mysteries through data.*
 
-- Technologies: Python, Pandas, Jupyter, Matplotlib
-- Dataset: [Scooby-Doo Complete](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete)
+This project analyzes episodes and monster encounters from the long-running Scooby-Doo franchise using a comprehensive dataset from Kaggle with data from over 600 episodes and movies. It explores how different themes, characters, and catchphrases show up over time, and highlights the show's trends through data visualization.
+
+- Technologies: Python, Jupyter, pandas, matplotlib 
+- Dataset: [Scooby-Doo Complete Dataset (Kaggle)](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete)  
+- Focus: Data cleansing, exploratory data analysis, visualization
 - GitHub: [View Repository](https://github.com/smpotts/scooby-doo-episode-analysis)
+
+---
+
+## **Palmer Penguins Data Storytelling**
+*An exploratory analysis using the palmerpenguins dataset, a collection of data about penguins from the Palmer Archipelago in Antarctica.*   
+
+In this notebook, I leverage data analysis and visualization techniques using ggplot2, and I explore and uncover insights from the palmerpenguins dataset through compelling visualizations.
+
+- Technologies: R, Jupyter, ggplot2, dplyr, tidyr  
+- Focus: Reproducible visual insights from real-world ecological data  
+- GitHub: [View Repository](https://github.com/smpotts/palmerpenguins-data-story)
 
 ---
