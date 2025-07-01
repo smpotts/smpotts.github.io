@@ -42,3 +42,12 @@ This project analyzes data from the 2021 Behavioral Risk Factor Surveillance Sys
 - GitHub: [View Repository](https://github.com/smpotts/brfss-health-modeling)
 
 ---
+
+## **Scooby-Doo Episode Analysis**
+*Analyzing episode data from the popular TV show Scooby-Doo.*
+
+- Technologies: Python, Pandas, Jupyter, Matplotlib
+- Dataset: [Scooby-Doo Complete](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete)
+- GitHub: [View Repository](https://github.com/smpotts/scooby-doo-episode-analysis)
+
+---
