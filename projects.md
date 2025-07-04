@@ -13,7 +13,7 @@ Here’s a collection of personal projects I’ve worked on — some started out
 
 By examining the user's profile, dating preferences, and interactions with other users, the project aims to reveal patterns, trends, and meaningful statistics that enhance the understanding of how users engage with Hinge and make decisions based on their preferences.
 
-- Technologies: Python, Plotly, Pandas, Docker  
+- Technologies: Python, Plotly, pandas, Docker  
 - Data Source: Personal data exports from Hinge  
 - GitHub: [View Repository](https://github.com/smpotts/hinge-data-analysis)  
 - Key Features: Analyzes user profile presentation, dating preferences, messaging patterns, response times, and match durations
@@ -41,6 +41,17 @@ This project analyzes episodes and monster encounters from the long-running Scoo
 - Dataset: [Scooby-Doo Complete Dataset (Kaggle)](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete)  
 - Focus: Data cleansing, exploratory data analysis, visualization
 - GitHub: [View Repository](https://github.com/smpotts/scooby-doo-episode-analysis)
+
+---
+
+## **Job Search Sankey Visualization**  
+*A visual exploration of job application progress through interview stages using Sankey diagrams.*  
+
+In this notebook, I process and visualize detailed job application data tracking how candidates move through various interview stages over time. By mapping transitions such as “Applied” to “Recruiter Inquiry,” then to “Technical Interview” or “Offer,” across multiple companies and application cycles, this project provides insights into common hiring workflows, bottlenecks where candidates drop out, and patterns that lead to successful offers. Using Sankey diagrams, the project reveals common paths, drop-off points, and outcomes to better understand the flow and challenges of navigating job applications.
+
+- Technologies: Python, Jupyter, pandas, Plotly  
+- Focus: Visualizing job search interview stages with Sankey diagrams  
+- GitHub: [View Repository](https://github.com/smpotts/jobsearch-sankey)  
 
 ---
 
