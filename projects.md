@@ -50,6 +50,7 @@ This project analyzes episodes and monster encounters from the long-running Scoo
 In this notebook, I process and visualize detailed job application data tracking how candidates move through various interview stages over time. By mapping transitions such as “Applied” to “Recruiter Inquiry,” then to “Technical Interview” or “Offer,” across multiple companies and application cycles, this project provides insights into common hiring workflows, bottlenecks where candidates drop out, and patterns that lead to successful offers. Using Sankey diagrams, the project reveals common paths, drop-off points, and outcomes to better understand the flow and challenges of navigating job applications.
 
 - Technologies: Python, Jupyter, pandas, Plotly  
+- Dataset: Personal job application tracking data in `.csv` format across companies and interview stages 
 - Focus: Visualizing job search interview stages with Sankey diagrams  
 - GitHub: [View Repository](https://github.com/smpotts/jobsearch-sankey)  
 
