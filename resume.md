@@ -14,17 +14,6 @@ A curious and passionate self-learner who enjoys using technology and data to so
 
 ---
 
-### **Senior Data Engineer**  
-**ShorePoint Inc.** — Government Contract with DHS  
-*Jan 2025 – Apr 2025*
-
-- Engineered ETL pipelines in Python to ingest, transform, and enrich vulnerability data from Axonius and Armis, supporting 3M users across 22 DHS agencies  
-- Processed data from 6M assets into 102 Kafka topics per agency, enriching with vulnerability intelligence  
-- Indexed structured documents in Elasticsearch for real-time security dashboards  
-- Migrated container infrastructure from Docker Swarm to AWS EKS, orchestrating 7 Docker services via Kubernetes manifests  
-
----
-
 ### **Senior Data & Analytics Engineer (Tech Lead)**  
 **eSpark Learning**  
 *Aug 2021 – Dec 2024*
