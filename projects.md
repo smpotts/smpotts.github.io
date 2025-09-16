@@ -20,6 +20,18 @@ By examining the user's profile, dating preferences, and interactions with other
 
 ---
 
+## **Student Performance Predictions using Machine Learning**
+*A project that analyzes data from a Portuguese school system, and creates machine learning models to predict student's performance.*  
+
+These data will help school administrators make more informed decisions about which students need more assistance in order to achieve better learning outcomes.
+
+- Technologies: Python, pandas, sklearn, matplotlib  
+- Data Source: UC Irvine's machine learning [repository](https://archive.ics.uci.edu/dataset/320/student+performance)  
+- GitHub: [View Repository](https://github.com/smpotts/student-performance-predictions-ml)    
+- Key Features: Analyzes student data collected from reports and surveys, trains two sets of machine learning models, determines the best fit for predicting future student performance.
+
+---
+
 ## **BRFSS 2021 Mental Health Analysis**  
 *Predicting mental health outcomes using CDC survey data.*  
 
