@@ -4,7 +4,7 @@ title: Contact
 cover-img: /assets/img/granada.jpg
 ---
 
-<form action="mailto:shelby@shelbypotts.com" method="post" enctype="text/plain">
+<form action="mailto:shelby@shelbypotts.com" method="post" enctype="text/plain" style="font-family:'Lora','Times New Roman',serif;">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
