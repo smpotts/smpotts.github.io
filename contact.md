@@ -5,7 +5,9 @@ subtitle: Reach out for collabs, ideas, or just to connect!
 cover-img: /assets/img/granada.jpg
 ---
 
-<form action="https://formspree.io/f/mgvnejpp" method="POST">
+<form action="https://formspree.io/f/mgvnejpp" method="POST" 
+      style="max-width:600px; background:#fafafa; padding:20px; border-radius:8px; border:1px solid #ddd;">
+
   <label for="name" style="font-family:'Lora','Times New Roman',serif; font-weight:bold;">Name:</label>
   <input type="text" id="name" name="name" required>
 
