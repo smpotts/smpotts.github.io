@@ -5,7 +5,7 @@ subtitle: Reach out for collabs, ideas, or just to connect!
 cover-img: /assets/img/granada.jpg
 ---
 
-<form action="mailto:shelby@shelbypotts.com" method="post" enctype="text/plain" 
+<form action="https://formspree.io/f/mgvnejpp" method="post" enctype="text/plain" 
       style="max-width:600px; background:#fafafa; padding:20px; border-radius:8px; border:1px solid #ddd;">
 
   <label for="name" style="font-weight:bold; font-family:'Lora','Times New Roman',serif;">Name:</label><br>
