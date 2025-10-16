@@ -25,7 +25,7 @@ I’m now pursuing a Master’s in Data Science and love diving into side projec
 
   .gallery img {
     width: 100%;
-    height: 250px; /* fixed tile height */
+    height: 300px; /* fixed tile height */
     object-fit: cover; /* crops to fill space nicely */
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
