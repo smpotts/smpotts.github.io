@@ -79,6 +79,18 @@ I’m now pursuing a Master’s in Data Science and love diving into side projec
 </style>
 
 <div class="gallery">
-  <a h
+  <a href="#img1"><img src="https://smpotts.github.io/assets/img/tennis_balls.jpg" alt="Sulley with tennis balls"></a>
+  <a href="#img2"><img src="https://smpotts.github.io/assets/img/dirty_sulley.jpg" alt="Sulley after playing"></a>
+  <a href="#img3"><img src="https://smpotts.github.io/assets/img/sulley_smirk.jpg" alt="Sulley smirking"></a>
+  <a href="#img4"><img src="https://smpotts.github.io/assets/img/sulley_field.jpg" alt="Sulley in the field"></a>
+  <a href="#img5"><img src="https://smpotts.github.io/assets/img/sulley_shelf.jpg" alt="Sulley on a shelf"></a>
+  <a href="#img6"><img src="https://smpotts.github.io/assets/img/voodoo.jpg" alt="Sulley with a toy"></a>
+</div>
 
- 
+<!-- Lightbox -->
+<div id="img1" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/tennis_balls.jpg"></div>
+<div id="img2" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/dirty_sulley.jpg"></div>
+<div id="img3" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/sulley_smirk.jpg"></div>
+<div id="img4" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/sulley_field.jpg"></div>
+<div id="img5" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/sulley_shelf.jpg"></div>
+<div id="img6" class="lightbox"><a href="#" class="close">&times;</a><img src="https://smpotts.github.io/assets/img/voodoo.jpg"></div>
