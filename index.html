@@ -4,7 +4,103 @@ title: Shelby Potts
 subtitle: Challenge Seeker | Tech Enthusiast | Idea Girl
 ---
 
-<body>
-    <p style="font-family:'Lora','Times New Roman',serif;"></p>
-        <center>Mostly tech things, occasionally other things.</center>
-</body>
+<style>
+.hero {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #666;
+}
+
+.section {
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  padding: 0 1rem;
+}
+
+.section h3 {
+  font-family: 'Lora', serif;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #111;
+}
+
+.highlight-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.highlight-list li {
+  margin-bottom: 0.75rem;
+}
+
+.highlight-list a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.highlight-list a:hover {
+  text-decoration: underline;
+}
+
+.tech-stack {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tech-item {
+  background: #eaeaea;
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: 0.95rem;
+}
+
+footer {
+  text-align: center;
+  padding: 40px 0;
+  color: #888;
+  font-size: 0.9rem;
+}
+</style>
+
+<div class="hero">
+  <p>Mostly tech things, occasionally other things.</p>
+</div>
+
+<div class="section">
+  <h3>Highlights</h3>
+  <ul class="highlight-list">
+    <li>🧠 <a href="/projects">Built machine learning classification models with tensor flow and scikit-learn to predict whether mushrooms are edible or poisonous.</a></li>
+    <li>📈 <a href="/blog">Latest post: "Lessons learned failing to using machine learning models to predict fantasy football scores."</a></li>
+  </ul>
+</div>
+
+<div class="section">
+  <h3>Currently</h3>
+  <p>Exploring new ways to build data pipelines in AWS using Glue and Entity Resolution, and experimenting with machine learning models.
+  When I'm not building, I'm probably playing tennis or hanging out with my dog, Sulley.</p>
+</div>
+
+<div class="section">
+  <h3>Tech Stack</h3>
+  <div class="tech-stack">
+    <div class="tech-item">Python</div>
+    <div class="tech-item">SQL</div>
+    <div class="tech-item">dbt</div>
+    <div class="tech-item">AWS</div>
+    <div class="tech-item">Docker</div>
+    <div class="tech-item">Jupyter</div>
+  </div>
+</div>
+
+<footer>
+  © 2025 Shelby Potts — Built with ❤️ and curiosity.
+</footer>
