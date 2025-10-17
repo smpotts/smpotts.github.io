@@ -2,9 +2,9 @@
 layout: post
 title: Clean, consistent icons with Font Awesome 
 subtitle: A quick guide to adding Font Awesome 
-cover-img: /assets/img/apple_orchard.jpg
-thumbnail-img: /assets/img/apple_orchard.jpg
-share-img: /assets/img/apple_orchard.jpg
+cover-img: /assets/img/apple_orchard_2.jpg
+thumbnail-img: /assets/img/apple_orchard_2.jpg
+share-img: /assets/img/apple_orchard_2.jpg
 tags: [tech, font_awesome] 
 ---
 
