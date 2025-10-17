@@ -20,6 +20,18 @@ By examining the user's profile, dating preferences, and interactions with other
 
 ---
 
+## **Spore Sense - Mushroom Classification**
+*A project predicting whether mushrooms are poisonous or edible using machine learning models.*  
+
+This project uses neural networks and dimensionality reduction (PCA) techniques on the UCI Mushroom dataset to determine whether mushrooms are edible or poisonous, while exploring whether PCA improves model efficiency without reducing accuracy.
+
+- Technologies: Python, pandas, sklearn, tensorflow, matplotlib 
+- Data Source: UC Irvine's machine learning [repository](https://archive.ics.uci.edu/dataset/73/mushroom), collected by G.H. Lincoff and published by Alfred A. Knopf in [The Audubon Society Field Guide to North American Mushrooms (1981)](https://www.amazon.ca/National-Audubon-Society-American-Mushrooms/dp/0394519922)
+- GitHub: [View Repository](https://github.com/smpotts/spore-sense)  
+- Key Features: Compares baseline and PCA-enhanced neural networks, visualizes confusion matrices, and analyzes model accuracy and efficiency.
+
+---
+
 ## **Student Performance Predictions using Machine Learning**
 *A project that analyzes data from a Portuguese school system, and creates machine learning models to predict student's performance.*  
 
