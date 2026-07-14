@@ -15,7 +15,7 @@ By examining the user's profile, dating preferences, and interactions with other
 
 - Technologies: Python, Plotly, pandas, Docker  
 - Data Source: Personal data exports from Hinge  
-- GitHub: [View Repository](https://github.com/spottseng/hinge-data-analysis)  
+- GitHub: [View Repository](https://github.com/smpotts/hinge-data-analysis)  
 - Key Features: Analyzes user profile presentation, dating preferences, messaging patterns, response times, and match durations
 
 ---
@@ -27,7 +27,7 @@ This project uses neural networks and dimensionality reduction (PCA) techniques 
 
 - Technologies: Python, pandas, sklearn, tensorflow, matplotlib 
 - Data Source: UC Irvine's machine learning [repository](https://archive.ics.uci.edu/dataset/73/mushroom), collected by G.H. Lincoff and published by Alfred A. Knopf in [The Audubon Society Field Guide to North American Mushrooms (1981)](https://www.amazon.ca/National-Audubon-Society-American-Mushrooms/dp/0394519922)
-- GitHub: [View Repository](https://github.com/spottseng/spore-sense)  
+- GitHub: [View Repository](https://github.com/smpotts/spore-sense)  
 - Key Features: Compares baseline and PCA-enhanced neural networks, visualizes confusion matrices, and analyzes model accuracy and efficiency.
 
 ---
@@ -38,7 +38,7 @@ This project was created purely for experimentation and learning — rebuilding 
 
 - Technologies: Python, NumPy
 Key Features: Builds a 2–3–1 neural network from scratch, manually implements forward and backpropagation with hand-derived gradients, trains over multiple epochs on randomly generated inputs
-GitHub: [View Repository](https://github.com/spottseng/NeuralFoundry)
+GitHub: [View Repository](https://github.com/smpotts/NeuralFoundry)
 
 ---
 
@@ -49,7 +49,7 @@ These data will help school administrators make more informed decisions about wh
 
 - Technologies: Python, pandas, sklearn, matplotlib  
 - Data Source: UC Irvine's machine learning [repository](https://archive.ics.uci.edu/dataset/320/student+performance)  
-- GitHub: [View Repository](https://github.com/spottseng/student-performance-predictions-ml)    
+- GitHub: [View Repository](https://github.com/smpotts/student-performance-predictions-ml)    
 - Key Features: Analyzes student data collected from reports and surveys, trains two sets of machine learning models, determines the best fit for predicting future student performance.
 
 ---
@@ -62,7 +62,7 @@ This project analyzes data from the 2021 Behavioral Risk Factor Surveillance Sys
 - Technologies: R, Jupyter, tidyverse, lm.beta
 - Dataset: 2021 BRFSS (Behavioral Risk Factor Surveillance System)  
 - Focus: Mental health prediction using linear regression  
-- GitHub: [View Repository](https://github.com/spottseng/brfss-health-modeling)
+- GitHub: [View Repository](https://github.com/smpotts/brfss-health-modeling)
 
 ---
 
@@ -74,7 +74,7 @@ This project analyzes episodes and monster encounters from the long-running Scoo
 - Technologies: Python, Jupyter, pandas, matplotlib 
 - Dataset: [Scooby-Doo Complete Dataset (Kaggle)](https://www.kaggle.com/datasets/williamschooleman/scoobydoo-complete)  
 - Focus: Data cleansing, exploratory data analysis, visualization
-- GitHub: [View Repository](https://github.com/spottseng/scooby-doo-episode-analysis)
+- GitHub: [View Repository](https://github.com/smpotts/scooby-doo-episode-analysis)
 
 ---
 
@@ -86,7 +86,7 @@ In this notebook, I process and visualize detailed job application data tracking
 - Technologies: Python, Jupyter, pandas, Plotly  
 - Dataset: Personal job application tracking data in `.csv` format across companies and interview stages 
 - Focus: Visualizing job search interview stages with Sankey diagrams  
-- GitHub: [View Repository](https://github.com/spottseng/jobsearch-sankey)  
+- GitHub: [View Repository](https://github.com/smpotts/jobsearch-sankey)  
 
 ---
 
@@ -97,6 +97,6 @@ In this notebook, I leverage data analysis and visualization techniques using gg
 
 - Technologies: R, Jupyter, ggplot2, dplyr, tidyr  
 - Focus: Reproducible visual insights from real-world ecological data  
-- GitHub: [View Repository](https://github.com/spottseng/palmerpenguins-data-story)
+- GitHub: [View Repository](https://github.com/smpotts/palmerpenguins-data-story)
 
 ---
