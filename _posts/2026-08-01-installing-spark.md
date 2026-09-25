@@ -8,13 +8,14 @@ share-img: /assets/img/chair_lift.jpg
 tags: [tech, python, spark] 
 ---
 
-I recently bought the reference book "Spark: The Definitive Guide" by Bill Chambers and Matei Zaharia, to try to become more proficient in Spark, and found it surprisingly challenging to get clear instructions on how to configure Spark on a macOS. After trying and failing to get Spark set up a number of different ways, I finally found a set of install steps that were simple to execute and successful.
+I recently bought the reference book [Spark: The Definitive Guide](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Bill Chambers and Matei Zaharia, to try to become more proficient in Spark, and found it surprisingly challenging to get clear instructions on how to configure Spark on a macOS. After trying and failing to get Spark set up a number of different ways, I finally found a set of install steps that were simple to execute and successful.
 
-NOTE: This set up uses Homebrew, so if you don't already have that, install it first:
+**NOTE**: This setup uses Homebrew, so if you don't already have that, install it first:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## Install Steps
 1. Install OpenJDK via Homebrew
 Spark needs Java installed because it runs on the Java Virtual Machine (JVM).
 ```
